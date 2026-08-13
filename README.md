@@ -1,17 +1,245 @@
-## My Project
+# FastThaiG2P
 
-TODO: Fill this README out!
+Lightning-fast Thai grapheme-to-phoneme conversion for voice agent pipelines
 
-Be sure to:
+```python
+from fastthaig2p import G2P
 
-* Change the title in this README
-* Edit your repository description on GitHub
+g2p = G2P()
+g2p.convert("สวัสดีครับ วันนี้อากาศดี")
+# → '/sa˨˩.wat̚˨˩.diː˧/ /kʰrap̚˦˥/ /wan˧.niː˦˥/ /ʔaː˧.kaːt̚˨˩/ /diː˧/'
+```
 
-## Security
+## Features
 
-See [CONTRIBUTING](CONTRIBUTING.md#security-issue-notifications) for more information.
+- **62,112 words** with IPA transcription
+- **0.15 ms per call**; pure dictionary lookup at runtime, tested on 27k examples in `synthetic/utterances.jsonl` (see `scripts/profile_g2p.py`)
+- **Text normalization** regarding maiyamok, numbers and Thai numerals, emails, common English/Thai abbreviations, units, symbols, time patterns, phone numbers, and so on
+- **Rule-based fallback**; out-of-vocabulary (OOV) words get phonologically valid IPA via syllable parsing vendored from `tltk`
+- **End-to-end TTS**; optional Kokoro-82M integration (bring your own Thai-finetuned checkpoint)
+- **Self-contained**; the only runtime dependency is `pythainlp` (for tokenization)
 
-## License
+## Installation
 
-This project is licensed under the Apache-2.0 License.
+```bash
+pip install git+https://github.com/aws/FastThaiG2P.git            # G2P only
+pip install "git+https://github.com/aws/FastThaiG2P.git#egg=fastthaig2p[tts]"  # G2P + TTS
+```
 
+Or clone and install locally:
+```bash
+git clone https://github.com/aws/FastThaiG2P.git
+cd FastThaiG2P
+pip install .              # G2P only
+pip install ".[tts]"        # + ONNX TTS inference
+pip install ".[tts-torch]"  # + PyTorch TTS (GPU)
+```
+
+## Usage
+
+### G2P
+
+```python
+from fastthaig2p import G2P
+
+g2p = G2P()
+
+# Handles everything: Thai text, numbers, abbreviations, symbols
+g2p.convert("ราคา 1,000 บาท")
+# → '/raː˧.kʰaː˧/ /nɯŋ˨˩/ /pʰan˧/ /baːt̚˨˩/'
+
+g2p.convert("วันที่ 15 ม.ค. 2569")
+# → '/wan˧.tʰiː˥˩/ /sip̚˨˩.haː˥˩/ /ma˦˥.ka˨˩.raː˧.kʰom˧/ ...'
+
+g2p.convert("ดอกเบี้ย 2.5% ต่อปี")
+# → '/dɔːk̚˨˩.bia̯˥˩/ /sɔːŋ˩˩˦.t͡ɕut̚˨˩.haː˥˩/ /pɤː˧.sen˧/ /tɔː˨˩.piː˧/'
+
+# OOV words get rule-based IPA (never passthrough)
+g2p.convert("คริปโต")
+# → '/kʰrip̚˦˥.toː˧/'
+```
+
+### TTS (optional)
+
+```python
+from fastthaig2p import TTS
+
+# Batteries included: first call downloads the default Thai Kokoro ONNX
+# model + voicepack (~330 MB) to ~/.cache/fastthaig2p
+tts = TTS()
+
+# Or bring your own artifacts:
+tts = TTS("kokoro_thai.onnx", "thai_som.pt", config_path="config.json")  # ONNX
+tts = TTS("kokoro_thai.pth", "thai_som.pt", config_path="config.json")   # PyTorch/GPU
+
+# Thai text → WAV file
+tts.synthesize("สวัสดีค่ะ ยอดเงินคงเหลือสามพันห้าร้อยบาท", "output.wav")
+
+# Raw numpy for streaming (float32, 24kHz)
+audio = tts.generate("กรุณารอสักครู่ค่ะ")
+```
+
+## How It Works
+
+### Pipeline
+
+```
+text → normalize → tokenize → dict lookup → fallback G2P → IPA
+         │              │            │              │
+    numbers/abbrevs  pythainlp    ipa.json      tltk-based
+    symbols/units    newmm engine  (O(1))      syllable parser
+    English abbrevs  62k custom
+                     dictionary
+```
+
+### Step 1: Text Normalization
+
+Converts non-speakable text to Thai words before tokenization:
+
+| Input | Output | Rule |
+|-------|--------|------|
+| `1,000` | หนึ่งพัน | Thai number reading (groups of 6 digits) |
+| `3.14` | สามจุดหนึ่งสี่ | Integer + จุด + digit-by-digit |
+| `081-234-5678` | ศูนย์แปดหนึ่ง สองสามสี่ ห้าหกเจ็ดแปด | Phone number (digit-by-digit per group) |
+| `50%` | ห้าสิบเปอร์เซ็นต์ | Symbol expansion |
+| `30°C` | สามสิบองศาเซลเซียส | Unit expansion |
+| `5 kg` | ห้ากิโลกรัม | Unit after digit |
+| `COVID` | โควิด | English abbreviation transliteration |
+| `Amazon` | อมาซอน | English brand names |
+| `ม.ค.` | มกราคม | Thai abbreviation expansion |
+| `ดร.` | ด็อกเตอร์ | Thai title expansion |
+| `๒๕๖๙` | 2569 → สองพันห้าร้อยหกสิบเก้า | Thai numerals → Arabic → words |
+| `เด็กๆ` | เด็กเด็ก | Mai yamok expansion |
+| `ORD-001` | โออาร์ดี ศูนย์ศูนย์หนึ่ง | Alphanumeric ID (letter-by-letter) |
+
+Long numbers (≥7 digits) are read digit-by-digit (like phone numbers or IDs), shorter numbers use Thai place-value reading.
+
+### Step 2: Tokenization
+
+Uses pythainlp's `newmm` (maximum matching) engine with a custom 62,112-word dictionary:
+
+```python
+"สวัสดีครับ" → ["สวัสดี", "ครับ"]
+"ธนาคารกรุงเทพ" → ["ธนาคาร", "กรุงเทพ"]
+```
+
+The dictionary (`data/dict.txt`) serves dual purpose:
+1. Drives word segmentation (as custom dict for newmm)
+2. Keys for IPA lookup (every word in dict has an IPA entry)
+
+### Step 3: Dictionary Lookup
+
+Each token is looked up in `data/ipa.json` — a flat `{word: "/ipa/"}` map. O(1) hash lookup, zero computation.
+
+The 62k IPA dictionary was built from three sources (merge priority highest→lowest):
+1. **Manual overrides** (`sources/manual_overrides.json`); hand-corrected entries
+2. **Wiktionary** (`sources/wiktionary_ipa.json`); 13k entries parsed from kaikki.org Thai dump
+3. **Generated** (`sources/generated_ipa.json`); ~49k entries generated by `Claude Opus 4.6` via Bedrock, validated against phonological rules
+
+### Step 4: Rule-based Fallback
+
+Words not in the dictionary (OOV) get IPA via a vendored Thai syllable parser from `tltk`.
+
+The fallback:
+1. Segments the word into syllables using trigram statistics (`data/fallback/sylseg.3g`)
+2. Maps each syllable to a romanized pronunciation
+3. Converts romanization to our IPA convention (tones, aspiration, unreleased stops, etc.)
+
+```python
+"สตาร์บัคส์" → /sa˨˩.taː˧.bak̚˦˥/  (rule-based, may not match native pronunciation)
+```
+
+## IPA Convention
+
+Follows English [Wiktionary](https://en.wiktionary.org/wiki/Category:Thai_terms_with_IPA_pronunciation) Thai transcription:
+
+| Feature | Format | Example |
+|---------|--------|---------|
+| Tones | Chao tone letters | ˧ mid, ˨˩ low, ˥˩ falling, ˦˥ high, ˩˩˦ rising |
+| Syllable boundary | `.` | sa˨˩.wat̚˨˩.diː˧ |
+| Vowel length | `ː` | aː (long) vs a (short) |
+| Aspiration | `ʰ` | kʰ (aspirated) vs k (unaspirated) |
+| Unreleased stops | `̚` | t̚, p̚, k̚ (no audible release) |
+| Affricates | `t͡ɕ`, `t͡ɕʰ` | จ, ช |
+| Diphthongs | `̯` (non-syllabic) | ia̯, ua̯, ɯa̯ |
+| Glottal stop | `ʔ` | อ (initial), สระอะ (short vowel ending) |
+| Word boundary | space | between /.../ groups |
+| Phoneme inventory | 42 IPA codepoints (see `fastthaig2p/kokoro.py` for the Kokoro token mapping) |
+
+## Updating the Dictionary
+
+```bash
+# Add word to dict.txt, then:
+uv run python3 scripts/generate_ipa.py   # generates IPA for new words using scripts/ipa_prompt.txt as prompt for us.anthropic.claude-opus-4-6-v1 in 500-utterance batches
+uv run python3 scripts/merge_ipa.py      # rebuilds ipa.json
+
+# Correct wrong IPA:
+# Edit data/sources/manual_overrides.json: {"word": "/correct_ipa/"}
+uv run python3 scripts/merge_ipa.py      # manual overrides have highest priority
+```
+
+Merge priority: **manual_overrides.json > wiktionary_ipa.json > generated_ipa.json**
+
+## TTS Deep Dive
+
+The `TTS` class wraps G2P + [Kokoro-82M](https://huggingface.co/hexgrad/Kokoro-82M)
+inference with a Thai-finetuned checkpoint (StyleTTS2 trained
+with [kukuru-tts](https://github.com/cstorm125/kukuru-tts)):
+
+```python
+from fastthaig2p import TTS
+
+tts = TTS(
+    "kokoro_thai.pth",       # Thai-finetuned Kokoro checkpoint (inference format)
+    "thai_som.pt",        # voicepack [510, 1, 256]
+    config_path="config.json",  # model config with the Thai vocab (115 symbols)
+    speed=1.0,               # >1 = faster speech
+)
+tts.synthesize("สวัสดีค่ะ", "out.wav")
+```
+
+Text is converted to Kokoro phonemes via `ipa_to_kokoro` (5-tone mapping:
+`→ ↓ ↘ ↑ ↗`), the voicepack is indexed by phoneme length like stock Kokoro
+voices, and inputs longer than 510 phonemes raise — chunk upstream.
+
+### ONNX export
+
+```bash
+python scripts/export_onnx.py \
+  --model kokoro_thai.pth --config config.json \
+  --output kokoro_thai.onnx --voicepack thai_som.pt --validate
+```
+
+Exports through `KModelForONNX` with `disable_complex=True` (real-arithmetic
+iSTFT) and dynamic axes; `--validate` checks the ONNX audio against PyTorch
+(expect corr > 0.99) and prints a speed comparison. Note that dynamic INT8
+quantization breaks the AdaIN style layers; keep fp32.
+
+### Performance
+
+- **RTF:** ~0.2 (ONNX or PyTorch on CPU); 5x real-time
+- **Backend choice:** ONNX avoids importing torch (~6s lighter cold start)
+- **Model size:** ~330MB (fp32 .pth or .onnx)
+
+## Project Structure
+
+```
+fastthaig2p/              Python package (runtime)
+  g2p.py                  Core G2P class
+  tts.py                  End-to-end TTS (G2P + Kokoro-82M)
+  kokoro.py               IPA → Kokoro phoneme mapping (5 tones)
+  normalizer.py           Text normalization (numbers, abbreviations, symbols)
+  tokenizer.py            Word segmentation (pythainlp newmm + 62k custom dict)
+  fallback.py             Rule-based G2P for OOV words
+  _th2ipa.py              Vendored syllable parser (tltk, pure stdlib)
+
+data/
+  dict.txt                62k word list (tokenizer + lookup keys)
+  ipa.json                Word → IPA mapping (runtime, 62k entries)
+  ipa_metadata.json       Word → {ipa, source, pos, origin} (audit trail)
+  fallback/               Syllable parser data (trigrams, rules, 19MB)
+  sources/                IPA sources (wiktionary, generated, manual overrides)
+
+scripts/                  Dictionary building & maintenance
+tests/                    24 pytest tests
+```

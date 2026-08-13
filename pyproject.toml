@@ -1,0 +1,43 @@
+[project]
+name = "fastthaig2p"
+version = "0.1.0"
+description = "Lightning-fast Thai grapheme-to-phoneme for voice agent pipelines"
+requires-python = ">=3.11"
+dependencies = [
+    "pythainlp>=5.3.4",
+]
+
+[project.optional-dependencies]
+tts = [
+    "onnxruntime>=1.20.0",
+    "numpy>=1.24.0",
+]
+tts-torch = [
+    "kokoro>=0.9.4",
+    "numpy>=1.24.0",
+]
+generate = [
+    "boto3>=1.43.41",
+    "botocore[crt]>=1.43.41",
+]
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[tool.hatch.build.targets.wheel]
+packages = ["fastthaig2p"]
+
+[tool.hatch.build.targets.wheel.force-include]
+# runtime data lives at repo root; ship it inside the package
+"data/dict.txt" = "fastthaig2p/data/dict.txt"
+"data/ipa.json" = "fastthaig2p/data/ipa.json"
+"data/fallback" = "fastthaig2p/data/fallback"
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+
+[dependency-groups]
+dev = [
+    "pytest>=9.1.1",
+]
