@@ -243,3 +243,17 @@ data/
 scripts/                  Dictionary building & maintenance
 tests/                    24 pytest tests
 ```
+
+Citation
+
+```
+@misc{polpanumas2026fastthaig2plightningfastthaigraphemetophoneme,
+      title={FastThaiG2P: Lightning-fast Thai Grapheme-to-phoneme Conversion for Voice Agent Pipelines}, 
+      author={Charin Polpanumas},
+      year={2026},
+      eprint={2608.12814},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2608.12814}, 
+}
+```
