@@ -244,7 +244,7 @@ scripts/                  Dictionary building & maintenance
 tests/                    24 pytest tests
 ```
 
-Citation
+## Citation
 
 ```
 @misc{polpanumas2026fastthaig2plightningfastthaigraphemetophoneme,
