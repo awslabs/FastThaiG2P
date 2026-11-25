@@ -25,9 +25,9 @@
 |------|-------------|------|
 | `sources/manual_overrides.json` | User corrections (highest merge priority) | ✓ |
 | `sources/wiktionary_ipa.json` | 13k IPA entries from kaikki.org (Wiktionary) | ✓ |
-| `sources/generated_ipa.json` | ~49k IPA entries from Claude Opus 4.6 | ✗ (gitignored) |
-| `sources/generated_ipa_invalid.json` | Entries that failed validation | ✗ (gitignored) |
-| `sources/kaikki.org-dictionary-Thai.jsonl` | Raw Wiktionary dump (44 MB) | ✗ (gitignored) |
+| `sources/generated_ipa.json` | ~49k IPA entries from Claude Opus 4.6 | ✓ |
+| `sources/generated_ipa_invalid.json` | Entries that failed validation | ✗ (not committed) |
+| `sources/kaikki.org-dictionary-Thai.jsonl` | Raw Wiktionary dump (44 MB) | ✗ (not committed) |
 | `sources/pali_sanskrit_words.txt` | Pali/Sanskrit word list for validation exclusion | ✓ |
 
 ## Test Files (prompt validation)
