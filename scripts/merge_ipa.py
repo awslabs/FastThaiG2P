@@ -112,9 +112,11 @@ def main():
     print()
 
     # Write outputs
-    OUTPUT_PATH.write_text(
-        json.dumps(ipa_flat, ensure_ascii=False, indent=2) + "\n", encoding="utf-8"
+    lines = ",\n".join(
+        f"{json.dumps(w, ensure_ascii=False)}: {json.dumps(ipa, ensure_ascii=False)}"
+        for w, ipa in ipa_flat.items()
     )
+    OUTPUT_PATH.write_text("{\n" + lines + "\n}", encoding="utf-8")
     print(f"Written: {OUTPUT_PATH} ({len(ipa_flat):,} entries)")
 
     METADATA_PATH.write_text(

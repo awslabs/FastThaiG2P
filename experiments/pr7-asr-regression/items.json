@@ -1,0 +1,3777 @@
+{
+ "pre": "ʨʰan↗ pʰuːt↘ kʰam→ waː↘",
+ "post": "ʔiːk↓ kʰraŋ↑.nɯŋ↓",
+ "items": [
+  {
+   "set": "changed",
+   "word": "กฎกระทรวง",
+   "main": "kot↓.kra↓.suːaŋ→",
+   "pr": "kot↓.kra↓.suaŋ→",
+   "ipa_main": "/kot̚˨˩.kra˨˩.suːa̯ŋ˧/",
+   "ipa_pr": "/kot̚˨˩.kra˨˩.sua̯ŋ˧/",
+   "id": 0,
+   "wav_main": "0000_main.wav",
+   "wav_pr": "0000_pr.wav"
+  },
+  {
+   "set": "changed",
+   "word": "กฎทบวง",
+   "main": "kot↓.tʰa↑.buːaŋ→",
+   "pr": "kot↓.tʰa↑.buaŋ→",
+   "ipa_main": "/kot̚˨˩.tʰa˦˥.buːa̯ŋ˧/",
+   "ipa_pr": "/kot̚˨˩.tʰa˦˥.bua̯ŋ˧/",
+   "id": 1,
+   "wav_main": "0001_main.wav",
+   "wav_pr": "0001_pr.wav"
+  },
+  {
+   "set": "changed",
+   "word": "กฎมณเฑียรบาลว่าด้วยการสืบราชสันตติวงศ์",
+   "main": "kot↓.mon→.tʰian→.baːn→.waː↘.duːaj↘.kaːn→.sɯːp↓.raːt↘.ʨʰa↓.san↗.ta↓.ti↓.woŋ→",
+   "pr": "kot↓.mon→.tʰian→.baːn→.waː↘.duaj↘.kaːn→.sɯːp↓.raːt↘.ʨʰa↓.san↗.ta↓.ti↓.woŋ→",
+   "ipa_main": "/kot̚˨˩.mon˧.tʰia̯n˧.baːn˧.waː˥˩.duːa̯j˥˩.kaːn˧.sɯːp̚˨˩.raːt̚˥˩.t͡ɕʰa˨˩.san˩˩˦.ta˨˩.ti˨˩.woŋ˧/",
+   "ipa_pr": "/kot̚˨˩.mon˧.tʰia̯n˧.baːn˧.waː˥˩.dua̯j˥˩.kaːn˧.sɯːp̚˨˩.raːt̚˥˩.t͡ɕʰa˨˩.san˩˩˦.ta˨˩.ti˨˩.woŋ˧/",
+   "id": 2,
+   "wav_main": "0002_main.wav",
+   "wav_pr": "0002_pr.wav"
+  },
+  {
+   "set": "changed",
+   "word": "กฎหมายตราสามดวง",
+   "main": "kot↓.maːj↗.traː→.saːm↗.duːaŋ→",
+   "pr": "kot↓.maːj↗.traː→.saːm↗.duaŋ→",
+   "ipa_main": "/kot̚˨˩.maːj˩˩˦.traː˧.saːm˩˩˦.duːa̯ŋ˧/",
+   "ipa_pr": "/kot̚˨˩.maːj˩˩˦.traː˧.saːm˩˩˦.dua̯ŋ˧/",
+   "id": 3,
+   "wav_main": "0003_main.wav",
+   "wav_pr": "0003_pr.wav"
+  },
+  {
+   "set": "changed",
+   "word": "กรมอาเซียน",
+   "main": "krom→.ʔaː→.siːan→",
+   "pr": "krom→.ʔaː→.sian→",
+   "ipa_main": "/krom˧.ʔaː˧.siːan˧/",
+   "ipa_pr": "/krom˧.ʔaː˧.sia̯n˧/",
+   "id": 4,
+   "wav_main": "0004_main.wav",
+   "wav_pr": "0004_pr.wav"
+  },
+  {
+   "set": "changed",
+   "word": "กรมเอเชียตะวันออก",
+   "main": "krom→.ʔeː→.ʨʰiːa→.ta↓.wan→.ʔɔːk↓",
+   "pr": "krom→.ʔeː→.ʨʰia→.ta↓.wan→.ʔɔːk↓",
+   "ipa_main": "/krom˧.ʔeː˧.t͡ɕʰiːa˧.ta˨˩.wan˧.ʔɔːk̚˨˩/",
+   "ipa_pr": "/krom˧.ʔeː˧.t͡ɕʰia̯˧.ta˨˩.wan˧.ʔɔːk̚˨˩/",
+   "id": 5,
+   "wav_main": "0005_main.wav",
+   "wav_pr": "0005_pr.wav"
+  },
+  {
+   "set": "changed",
+   "word": "กรมเอเชียใต้ ตะวันออกกลาง และแอฟริกา",
+   "main": "krom→.ʔeː→.ʨʰiːa→.taj↘.ta↓.wan→.ʔɔːk↓.klaːŋ→.lɛʔ↑.ʔɛːf↑.ri↑.kaː→",
+   "pr": "krom→.ʔeː→.ʨʰia→.taj↘.ta↓.wan→.ʔɔːk↓.klaːŋ→.lɛʔ↑.ʔɛːf↑.ri↑.kaː→",
+   "ipa_main": "/krom˧.ʔeː˧.t͡ɕʰiːa˧.taj˥˩.ta˨˩.wan˧.ʔɔːk̚˨˩.klaːŋ˧.lɛʔ˦˥.ʔɛːf˦˥.ri˦˥.kaː˧/",
+   "ipa_pr": "/krom˧.ʔeː˧.t͡ɕʰia̯˧.taj˥˩.ta˨˩.wan˧.ʔɔːk̚˨˩.klaːŋ˧.lɛʔ˦˥.ʔɛːf˦˥.ri˦˥.kaː˧/",
+   "id": 6,
+   "wav_main": "0006_main.wav",
+   "wav_pr": "0006_pr.wav"
+  },
+  {
+   "set": "changed",
+   "word": "กรวน",
+   "main": "kruːan→",
+   "pr": "kruan→",
+   "ipa_main": "/kruːan˧/",
+   "ipa_pr": "/krua̯n˧/",
+   "id": 7,
+   "wav_main": "0007_main.wav",
+   "wav_pr": "0007_pr.wav"
+  },
+  {
+   "set": "changed",
+   "word": "กะอวม",
+   "main": "ka↓.ʔuːam→",
+   "pr": "ka↓.ʔuam→",
+   "ipa_main": "/ka˨˩.ʔuːam˧/",
+   "ipa_pr": "/ka˨˩.ʔua̯m˧/",
+   "id": 8,
+   "wav_main": "0008_main.wav",
+   "wav_pr": "0008_pr.wav"
+  },
+  {
+   "set": "changed",
+   "word": "กะเม็งตัวผู้",
+   "main": "ka↓.meŋ→.tuːa→.pʰuː↘",
+   "pr": "ka↓.meŋ→.tua→.pʰuː↘",
+   "ipa_main": "/ka˨˩.meŋ˧.tuːa̯˧.pʰuː˥˩/",
+   "ipa_pr": "/ka˨˩.meŋ˧.tua̯˧.pʰuː˥˩/",
+   "id": 9,
+   "wav_main": "0009_main.wav",
+   "wav_pr": "0009_pr.wav"
+  },
+  {
+   "set": "changed",
+   "word": "กะเม็งตัวเมีย",
+   "main": "ka↓.meŋ→.tuːa→.mia→",
+   "pr": "ka↓.meŋ→.tua→.mia→",
+   "ipa_main": "/ka˨˩.meŋ˧.tuːa̯˧.mia̯˧/",
+   "ipa_pr": "/ka˨˩.meŋ˧.tua̯˧.mia̯˧/",
+   "id": 10,
+   "wav_main": "0010_main.wav",
+   "wav_pr": "0010_pr.wav"
+  },
+  {
+   "set": "changed",
+   "word": "กัวซู่ชิง",
+   "main": "kuːa→.suː↘.ʨʰiŋ→",
+   "pr": "kua→.suː↘.ʨʰiŋ→",
+   "ipa_main": "/kuːa̯˧.suː˥˩.t͡ɕʰiŋ˧/",
+   "ipa_pr": "/kua̯˧.suː˥˩.t͡ɕʰiŋ˧/",
+   "id": 11,
+   "wav_main": "0011_main.wav",
+   "wav_pr": "0011_pr.wav"
+  },
+  {
+   "set": "changed",
+   "word": "กัวรานา",
+   "main": "kuːa→.raː→.naː→",
+   "pr": "kua→.raː→.naː→",
+   "ipa_main": "/kuːa̯˧.raː˧.naː˧/",
+   "ipa_pr": "/kua̯˧.raː˧.naː˧/",
+   "id": 12,
+   "wav_main": "0012_main.wav",
+   "wav_pr": "0012_pr.wav"
+  },
+  {
+   "set": "changed",
+   "word": "กัวลาลุมปูร์",
+   "main": "kuːa→.laː→.lum→.puː→",
+   "pr": "kua→.laː→.lum→.puː→",
+   "ipa_main": "/kuːa̯˧.laː˧.lum˧.puː˧/",
+   "ipa_pr": "/kua̯˧.laː˧.lum˧.puː˧/",
+   "id": 13,
+   "wav_main": "0013_main.wav",
+   "wav_pr": "0013_pr.wav"
+  },
+  {
+   "set": "changed",
+   "word": "กำแพงเศียร",
+   "main": "kam→.pʰɛːŋ→.siːan↗",
+   "pr": "kam→.pʰɛːŋ→.sian↗",
+   "ipa_main": "/kam˧.pʰɛːŋ˧.siːan˩˩˦/",
+   "ipa_pr": "/kam˧.pʰɛːŋ˧.sia̯n˩˩˦/",
+   "id": 14,
+   "wav_main": "0014_main.wav",
+   "wav_pr": "0014_pr.wav"
+  },
+  {
+   "set": "changed",
+   "word": "กิ่ว",
+   "main": "kiu↓",
+   "pr": "kiw↓",
+   "ipa_main": "/kiu˨˩/",
+   "ipa_pr": "/kiw˨˩/",
+   "id": 15,
+   "wav_main": "0015_main.wav",
+   "wav_pr": "0015_pr.wav"
+  },
+  {
+   "set": "changed",
+   "word": "กิ๊กเสี่ยงสิ่ว",
+   "main": "kik↑.siaŋ↓.siu↓",
+   "pr": "kik↑.siaŋ↓.siw↓",
+   "ipa_main": "/kik̚˦˥.sia̯ŋ˨˩.siu˨˩/",
+   "ipa_pr": "/kik̚˦˥.sia̯ŋ˨˩.siw˨˩/",
+   "id": 16,
+   "wav_main": "0016_main.wav",
+   "wav_pr": "0016_pr.wav"
+  },
+  {
+   "set": "changed",
+   "word": "กิ๋ว",
+   "main": "kiu↗",
+   "pr": "kiw↗",
+   "ipa_main": "/kiu˩˩˦/",
+   "ipa_pr": "/kiw˩˩˦/",
+   "id": 17,
+   "wav_main": "0017_main.wav",
+   "wav_pr": "0017_pr.wav"
+  },
+  {
+   "set": "changed",
+   "word": "กิ๋ว ๆ",
+   "main": "kiu↗.kiu↗",
+   "pr": "kiw↗.kiw↗",
+   "ipa_main": "/kiu˩˩˦.kiu˩˩˦/",
+   "ipa_pr": "/kiw˩˩˦.kiw˩˩˦/",
+   "id": 18,
+   "wav_main": "0018_main.wav",
+   "wav_pr": "0018_pr.wav"
+  },
+  {
+   "set": "changed",
+   "word": "ขยับเขยื้อน",
+   "main": "kʰa↓.jap↓.kʰa↓.jɯːan↘",
+   "pr": "kʰa↓.jap↓.kʰa↓.jɯan↘",
+   "ipa_main": "/kʰa˨˩.jap̚˨˩.kʰa˨˩.jɯːan˥˩/",
+   "ipa_pr": "/kʰa˨˩.jap̚˨˩.kʰa˨˩.jɯa̯n˥˩/",
+   "id": 19,
+   "wav_main": "0019_main.wav",
+   "wav_pr": "0019_pr.wav"
+  },
+  {
+   "set": "changed",
+   "word": "ขวะไขว่เขวี่ย",
+   "main": "kʰwaʔ↓.kʰwaj↓.kʰwiːaj↓",
+   "pr": "kʰwaʔ↓.kʰwaj↓.kʰwiaj↓",
+   "ipa_main": "/kʰwaʔ˨˩.kʰwaj˨˩.kʰwiːa̯j˨˩/",
+   "ipa_pr": "/kʰwaʔ˨˩.kʰwaj˨˩.kʰwia̯j˨˩/",
+   "id": 20,
+   "wav_main": "0020_main.wav",
+   "wav_pr": "0020_pr.wav"
+  },
+  {
+   "set": "changed",
+   "word": "ขอนุญาต",
+   "main": "kʰɔː↗.nu↑.jaat↘",
+   "pr": "kʰɔː↗.nu↑.jaːt↘",
+   "ipa_main": "/kʰɔː˩˩˦.nu˦˥.jaat̚˥˩/",
+   "ipa_pr": "/kʰɔː˩˩˦.nu˦˥.jaːt̚˥˩/",
+   "id": 21,
+   "wav_main": "0021_main.wav",
+   "wav_pr": "0021_pr.wav"
+  },
+  {
+   "set": "changed",
+   "word": "คดกริช",
+   "main": "khot↓.krit↓",
+   "pr": "kʰot↓.krit↓",
+   "ipa_main": "/khot̚˨˩.krit̚˨˩/",
+   "ipa_pr": "/kʰot̚˨˩.krit̚˨˩/",
+   "id": 22,
+   "wav_main": "0022_main.wav",
+   "wav_pr": "0022_pr.wav"
+  },
+  {
+   "set": "changed",
+   "word": "คดข้าว",
+   "main": "khot↑.kʰaːw↘",
+   "pr": "kʰot↑.kʰaːw↘",
+   "ipa_main": "/khot̚˦˥.kʰaːw˥˩/",
+   "ipa_pr": "/kʰot̚˦˥.kʰaːw˥˩/",
+   "id": 23,
+   "wav_main": "0023_main.wav",
+   "wav_pr": "0023_pr.wav"
+  },
+  {
+   "set": "changed",
+   "word": "คติประจำตัว",
+   "main": "kʰa↑.tiʔ↓.pra↓.ʨam→.tuːa→",
+   "pr": "kʰa↑.tiʔ↓.pra↓.ʨam→.tua→",
+   "ipa_main": "/kʰa˦˥.tiʔ˨˩.pra˨˩.t͡ɕam˧.tuːa˧/",
+   "ipa_pr": "/kʰa˦˥.tiʔ˨˩.pra˨˩.t͡ɕam˧.tua̯˧/",
+   "id": 24,
+   "wav_main": "0024_main.wav",
+   "wav_pr": "0024_pr.wav"
+  },
+  {
+   "set": "changed",
+   "word": "ความกระทบกระเทือน",
+   "main": "kʰwaːm→.kra↓.tʰop↑.kra↓.tʰɯːan→",
+   "pr": "kʰwaːm→.kra↓.tʰop↑.kra↓.tʰɯan→",
+   "ipa_main": "/kʰwaːm˧.kra˨˩.tʰop̚˦˥.kra˨˩.tʰɯːan˧/",
+   "ipa_pr": "/kʰwaːm˧.kra˨˩.tʰop̚˦˥.kra˨˩.tʰɯa̯n˧/",
+   "id": 25,
+   "wav_main": "0025_main.wav",
+   "wav_pr": "0025_pr.wav"
+  },
+  {
+   "set": "changed",
+   "word": "คอมมิวนิตี้",
+   "main": "kʰɔm→.miu→.ni↑.tiː↑",
+   "pr": "kʰɔm→.miw→.ni↑.tiː↑",
+   "ipa_main": "/kʰɔm˧.miu˧.ni˦˥.tiː˦˥/",
+   "ipa_pr": "/kʰɔm˧.miw˧.ni˦˥.tiː˦˥/",
+   "id": 26,
+   "wav_main": "0026_main.wav",
+   "wav_pr": "0026_pr.wav"
+  },
+  {
+   "set": "changed",
+   "word": "คอมมิวนิสท์",
+   "main": "kʰɔm→.miu→.nit↑",
+   "pr": "kʰɔm→.miw→.nit↑",
+   "ipa_main": "/kʰɔm˧.miu˧.nit̚˦˥/",
+   "ipa_pr": "/kʰɔm˧.miw˧.nit̚˦˥/",
+   "id": 27,
+   "wav_main": "0027_main.wav",
+   "wav_pr": "0027_pr.wav"
+  },
+  {
+   "set": "changed",
+   "word": "คอมมิวนิเคชั่น",
+   "main": "kʰɔm→.miu→.ni↑.kʰeː→.ʨʰan↘",
+   "pr": "kʰɔm→.miw→.ni↑.kʰeː→.ʨʰan↘",
+   "ipa_main": "/kʰɔm˧.miu˧.ni˦˥.kʰeː˧.t͡ɕʰan˥˩/",
+   "ipa_pr": "/kʰɔm˧.miw˧.ni˦˥.kʰeː˧.t͡ɕʰan˥˩/",
+   "id": 28,
+   "wav_main": "0028_main.wav",
+   "wav_pr": "0028_pr.wav"
+  },
+  {
+   "set": "changed",
+   "word": "คาเบรียล",
+   "main": "kʰaː→.briːan→",
+   "pr": "kʰaː→.brian→",
+   "ipa_main": "/kʰaː˧.briːan˧/",
+   "ipa_pr": "/kʰaː˧.bria̯n˧/",
+   "id": 29,
+   "wav_main": "0029_main.wav",
+   "wav_pr": "0029_pr.wav"
+  },
+  {
+   "set": "changed",
+   "word": "คิดทบทวน",
+   "main": "kʰit↑.tʰop↑.tʰua→n→",
+   "pr": "kʰit↑.tʰop↑.tʰuan→",
+   "ipa_main": "/kʰit̚˦˥.tʰop̚˦˥.tʰua˧n˧/",
+   "ipa_pr": "/kʰit̚˦˥.tʰop̚˦˥.tʰua̯n˧/",
+   "id": 30,
+   "wav_main": "0030_main.wav",
+   "wav_pr": "0030_pr.wav"
+  },
+  {
+   "set": "changed",
+   "word": "ค่าถัวเฉลี่ย",
+   "main": "kʰaː↘.tʰua↗.ʨʰa↓.liːa↓",
+   "pr": "kʰaː↘.tʰua↗.ʨʰa↓.lia↓",
+   "ipa_main": "/kʰaː˥˩.tʰua̯˩˩˦.t͡ɕʰa˨˩.liːa̯˨˩/",
+   "ipa_pr": "/kʰaː˥˩.tʰua̯˩˩˦.t͡ɕʰa˨˩.lia̯˨˩/",
+   "id": 31,
+   "wav_main": "0031_main.wav",
+   "wav_pr": "0031_pr.wav"
+  },
+  {
+   "set": "changed",
+   "word": "งาบ ๆ",
+   "main": "ŋaːp↘",
+   "pr": "ŋaːp↘.ŋaːp↘",
+   "ipa_main": "/ŋaːp̚˥˩ ŋaːp̚˥˩/",
+   "ipa_pr": "/ŋaːp̚˥˩.ŋaːp̚˥˩/",
+   "id": 32,
+   "wav_main": "0032_main.wav",
+   "wav_pr": "0032_pr.wav"
+  },
+  {
+   "set": "changed",
+   "word": "งาบๆ",
+   "main": "ŋaːp↘",
+   "pr": "ŋaːp↘.ŋaːp↘",
+   "ipa_main": "/ŋaːp̚˥˩ ŋaːp̚˥˩/",
+   "ipa_pr": "/ŋaːp̚˥˩.ŋaːp̚˥˩/",
+   "id": 33,
+   "wav_main": "0033_main.wav",
+   "wav_pr": "0033_pr.wav"
+  },
+  {
+   "set": "changed",
+   "word": "งึก ๆ",
+   "main": "ŋɯk↑",
+   "pr": "ŋɯk↑.ŋɯk↑",
+   "ipa_main": "/ŋɯk̚˦˥ ŋɯk̚˦˥/",
+   "ipa_pr": "/ŋɯk̚˦˥.ŋɯk̚˦˥/",
+   "id": 34,
+   "wav_main": "0034_main.wav",
+   "wav_pr": "0034_pr.wav"
+  },
+  {
+   "set": "changed",
+   "word": "งุด ๆ",
+   "main": "ŋut↑",
+   "pr": "ŋut↑.ŋut↑",
+   "ipa_main": "/ŋut̚˦˥ ŋut̚˦˥/",
+   "ipa_pr": "/ŋut̚˦˥.ŋut̚˦˥/",
+   "id": 35,
+   "wav_main": "0035_main.wav",
+   "wav_pr": "0035_pr.wav"
+  },
+  {
+   "set": "changed",
+   "word": "งุบ ๆ",
+   "main": "ŋup↑",
+   "pr": "ŋup↑.ŋup↑",
+   "ipa_main": "/ŋup̚˦˥ ŋup̚˦˥/",
+   "ipa_pr": "/ŋup̚˦˥.ŋup̚˦˥/",
+   "id": 36,
+   "wav_main": "0036_main.wav",
+   "wav_pr": "0036_pr.wav"
+  },
+  {
+   "set": "changed",
+   "word": "งุบๆ",
+   "main": "ŋup↑",
+   "pr": "ŋup↑.ŋup↑",
+   "ipa_main": "/ŋup̚˦˥ ŋup̚˦˥/",
+   "ipa_pr": "/ŋup̚˦˥.ŋup̚˦˥/",
+   "id": 37,
+   "wav_main": "0037_main.wav",
+   "wav_pr": "0037_pr.wav"
+  },
+  {
+   "set": "changed",
+   "word": "งูๆ ปลาๆ",
+   "main": "ŋuː→",
+   "pr": "ŋuː→.ŋuː→.plaː→.plaː→",
+   "ipa_main": "/ŋuː˧ ŋuː˧ plaː˧ plaː˧/",
+   "ipa_pr": "/ŋuː˧.ŋuː˧.plaː˧.plaː˧/",
+   "id": 38,
+   "wav_main": "0038_main.wav",
+   "wav_pr": "0038_pr.wav"
+  },
+  {
+   "set": "changed",
+   "word": "ง่าย ๆ",
+   "main": "ŋaːj↘",
+   "pr": "ŋaːj↘.ŋaːj↘",
+   "ipa_main": "/ŋaːj˥˩ ŋaːj˥˩/",
+   "ipa_pr": "/ŋaːj˥˩.ŋaːj˥˩/",
+   "id": 39,
+   "wav_main": "0039_main.wav",
+   "wav_pr": "0039_pr.wav"
+  },
+  {
+   "set": "changed",
+   "word": "ง่ายๆ",
+   "main": "ŋaːj↘",
+   "pr": "ŋaːj↘.ŋaːj↘",
+   "ipa_main": "/ŋaːj˥˩ ŋaːj˥˩/",
+   "ipa_pr": "/ŋaːj˥˩.ŋaːj˥˩/",
+   "id": 40,
+   "wav_main": "0040_main.wav",
+   "wav_pr": "0040_pr.wav"
+  },
+  {
+   "set": "changed",
+   "word": "ง่ำ ๆ",
+   "main": "ŋam↘",
+   "pr": "ŋam↘.ŋam↘",
+   "ipa_main": "/ŋam˥˩ ŋam˥˩/",
+   "ipa_pr": "/ŋam˥˩.ŋam˥˩/",
+   "id": 41,
+   "wav_main": "0041_main.wav",
+   "wav_pr": "0041_pr.wav"
+  },
+  {
+   "set": "changed",
+   "word": "จด ๆ จ้อง ๆ",
+   "main": "ʨot↓",
+   "pr": "ʨot↓.ʨot↓.ʨɔːŋ↘.ʨɔːŋ↘",
+   "ipa_main": "/t͡ɕot̚˨˩ t͡ɕot̚˨˩ t͡ɕɔːŋ˥˩ t͡ɕɔːŋ˥˩/",
+   "ipa_pr": "/t͡ɕot̚˨˩.t͡ɕot̚˨˩.t͡ɕɔːŋ˥˩.t͡ɕɔːŋ˥˩/",
+   "id": 42,
+   "wav_main": "0042_main.wav",
+   "wav_pr": "0042_pr.wav"
+  },
+  {
+   "set": "changed",
+   "word": "จอภาพยนตร์",
+   "main": "ʨɔː→.pʰaːp↑.pha↑.jon→",
+   "pr": "ʨɔː→.pʰaːp↑.pʰa↑.jon→",
+   "ipa_main": "/t͡ɕɔː˧.pʰaːp̚˦˥.pha˦˥.jon˧/",
+   "ipa_pr": "/t͡ɕɔː˧.pʰaːp̚˦˥.pʰa˦˥.jon˧/",
+   "id": 43,
+   "wav_main": "0043_main.wav",
+   "wav_pr": "0043_pr.wav"
+  },
+  {
+   "set": "changed",
+   "word": "จุลจอมเกล้า",
+   "main": "ʨun→.la↑.ʨɔːm→.klao↘",
+   "pr": "ʨun→.la↑.ʨɔːm→.klaw↘",
+   "ipa_main": "/t͡ɕun˧.la˦˥.t͡ɕɔːm˧.klao˥˩/",
+   "ipa_pr": "/t͡ɕun˧.la˦˥.t͡ɕɔːm˧.klaw˥˩/",
+   "id": 44,
+   "wav_main": "0044_main.wav",
+   "wav_pr": "0044_pr.wav"
+  },
+  {
+   "set": "changed",
+   "word": "ชอื้อ",
+   "main": "ʨʰɔː→.ɯː↑",
+   "pr": "ʨʰɔː→.ʔɯː↑",
+   "ipa_main": "/t͡ɕʰɔː˧.ɯː˦˥/",
+   "ipa_pr": "/t͡ɕʰɔː˧.ʔɯː˦˥/",
+   "id": 45,
+   "wav_main": "0045_main.wav",
+   "wav_pr": "0045_pr.wav"
+  },
+  {
+   "set": "changed",
+   "word": "ชิลลิงเคนยา",
+   "main": "ʨʰin→.liŋ→.kʰeː→.nja→",
+   "pr": "ʨʰin→.liŋ→.kʰeːn→.ja↘",
+   "ipa_main": "/t͡ɕʰin˧.liŋ˧.kʰeː˧.nja˧/",
+   "ipa_pr": "/t͡ɕʰin˧.liŋ˧.kʰeːn˧.ja˥˩/",
+   "id": 46,
+   "wav_main": "0046_main.wav",
+   "wav_pr": "0046_pr.wav"
+  },
+  {
+   "set": "changed",
+   "word": "ฐานข้อมูลร่วม",
+   "main": "tʰaːn↗.kʰɔː↘.muːn→.ruːam↘",
+   "pr": "tʰaːn↗.kʰɔː↘.muːn→.ruam↘",
+   "ipa_main": "/tʰaːn˩˩˦.kʰɔː˥˩.muːn˧.ruːa̯m˥˩/",
+   "ipa_pr": "/tʰaːn˩˩˦.kʰɔː˥˩.muːn˧.rua̯m˥˩/",
+   "id": 47,
+   "wav_main": "0047_main.wav",
+   "wav_pr": "0047_pr.wav"
+  },
+  {
+   "set": "changed",
+   "word": "ดวงกมล",
+   "main": "duːaŋ→.ka↓.mon→",
+   "pr": "duaŋ→.ka↓.mon→",
+   "ipa_main": "/duːa̯ŋ˧.ka˨˩.mon˧/",
+   "ipa_pr": "/dua̯ŋ˧.ka˨˩.mon˧/",
+   "id": 48,
+   "wav_main": "0048_main.wav",
+   "wav_pr": "0048_pr.wav"
+  },
+  {
+   "set": "changed",
+   "word": "ดวงขึ้น",
+   "main": "duːaŋ→.kʰɯn↘",
+   "pr": "duaŋ→.kʰɯn↘",
+   "ipa_main": "/duːa̯ŋ˧.kʰɯn˥˩/",
+   "ipa_pr": "/dua̯ŋ˧.kʰɯn˥˩/",
+   "id": 49,
+   "wav_main": "0049_main.wav",
+   "wav_pr": "0049_pr.wav"
+  },
+  {
+   "set": "changed",
+   "word": "ดวงจันทร์",
+   "main": "duːaŋ→.ʨan→",
+   "pr": "duaŋ→.ʨan→",
+   "ipa_main": "/duːa̯ŋ˧.t͡ɕan˧/",
+   "ipa_pr": "/dua̯ŋ˧.t͡ɕan˧/",
+   "id": 50,
+   "wav_main": "0050_main.wav",
+   "wav_pr": "0050_pr.wav"
+  },
+  {
+   "set": "changed",
+   "word": "ดวงจิต",
+   "main": "duːaŋ→.ʨit↓",
+   "pr": "duaŋ→.ʨit↓",
+   "ipa_main": "/duːa̯ŋ˧.t͡ɕit̚˨˩/",
+   "ipa_pr": "/dua̯ŋ˧.t͡ɕit̚˨˩/",
+   "id": 51,
+   "wav_main": "0051_main.wav",
+   "wav_pr": "0051_pr.wav"
+  },
+  {
+   "set": "changed",
+   "word": "ดวงจู๋",
+   "main": "duːaŋ→.ʨuː↗",
+   "pr": "duaŋ→.ʨuː↗",
+   "ipa_main": "/duːa̯ŋ˧.t͡ɕuː˩˩˦/",
+   "ipa_pr": "/dua̯ŋ˧.t͡ɕuː˩˩˦/",
+   "id": 52,
+   "wav_main": "0052_main.wav",
+   "wav_pr": "0052_pr.wav"
+  },
+  {
+   "set": "changed",
+   "word": "ดวงชะตา",
+   "main": "duːaŋ→.ʨʰa↑.taː→",
+   "pr": "duaŋ→.ʨʰa↑.taː→",
+   "ipa_main": "/duːa̯ŋ˧.t͡ɕʰa˦˥.taː˧/",
+   "ipa_pr": "/dua̯ŋ˧.t͡ɕʰa˦˥.taː˧/",
+   "id": 53,
+   "wav_main": "0053_main.wav",
+   "wav_pr": "0053_pr.wav"
+  },
+  {
+   "set": "changed",
+   "word": "ดวงดาว",
+   "main": "duːaŋ→.daːw→",
+   "pr": "duaŋ→.daːw→",
+   "ipa_main": "/duːa̯ŋ˧.daːw˧/",
+   "ipa_pr": "/dua̯ŋ˧.daːw˧/",
+   "id": 54,
+   "wav_main": "0054_main.wav",
+   "wav_pr": "0054_pr.wav"
+  },
+  {
+   "set": "changed",
+   "word": "ดวงดี",
+   "main": "duːaŋ→.diː→",
+   "pr": "duaŋ→.diː→",
+   "ipa_main": "/duːa̯ŋ˧.diː˧/",
+   "ipa_pr": "/dua̯ŋ˧.diː˧/",
+   "id": 55,
+   "wav_main": "0055_main.wav",
+   "wav_pr": "0055_pr.wav"
+  },
+  {
+   "set": "changed",
+   "word": "ดอลลาร์นิวซีแลนด์",
+   "main": "dɔn→.laː→.niu→.siː→.lɛːn→",
+   "pr": "dɔn→.laː→.niw→.siː→.lɛːn→",
+   "ipa_main": "/dɔn˧.laː˧.niu˧.siː˧.lɛːn˧/",
+   "ipa_pr": "/dɔn˧.laː˧.niw˧.siː˧.lɛːn˧/",
+   "id": 56,
+   "wav_main": "0056_main.wav",
+   "wav_pr": "0056_pr.wav"
+  },
+  {
+   "set": "changed",
+   "word": "ตรีเพชรพวง",
+   "main": "triː→.pʰet↑.pʰuːaŋ→",
+   "pr": "triː→.pʰet↑.pʰuaŋ→",
+   "ipa_main": "/triː˧.pʰet̚˦˥.pʰuːaŋ˧/",
+   "ipa_pr": "/triː˧.pʰet̚˦˥.pʰua̯ŋ˧/",
+   "id": 57,
+   "wav_main": "0057_main.wav",
+   "wav_pr": "0057_pr.wav"
+  },
+  {
+   "set": "changed",
+   "word": "ตามสมควร",
+   "main": "taːm→.som↗.kʰuːan→",
+   "pr": "taːm→.som↗.kʰuan→",
+   "ipa_main": "/taːm˧.som˩˩˦.kʰuːan˧/",
+   "ipa_pr": "/taːm˧.som˩˩˦.kʰua̯n˧/",
+   "id": 58,
+   "wav_main": "0058_main.wav",
+   "wav_pr": "0058_pr.wav"
+  },
+  {
+   "set": "changed",
+   "word": "ต่ำทราม",
+   "main": "tam↓.sʰaːm→",
+   "pr": "tam↓.saːm→",
+   "ipa_main": "/tam˨˩.sʰaːm˧/",
+   "ipa_pr": "/tam˨˩.saːm˧/",
+   "id": 59,
+   "wav_main": "0059_main.wav",
+   "wav_pr": "0059_pr.wav"
+  },
+  {
+   "set": "changed",
+   "word": "ธุดงค",
+   "main": "tʰu↑.donɡ→",
+   "pr": "tʰu↑.doŋ→",
+   "ipa_main": "/tʰu˦˥.dong˧/",
+   "ipa_pr": "/tʰu˦˥.doŋ˧/",
+   "id": 60,
+   "wav_main": "0060_main.wav",
+   "wav_pr": "0060_pr.wav"
+  },
+  {
+   "set": "changed",
+   "word": "ธุดงควัตร",
+   "main": "tʰu↑.donɡ→.kʰa↑.wat↑",
+   "pr": "tʰu↑.doŋ→.kʰa↑.wat↑",
+   "ipa_main": "/tʰu˦˥.dong˧.kʰa˦˥.wat̚˦˥/",
+   "ipa_pr": "/tʰu˦˥.doŋ˧.kʰa˦˥.wat̚˦˥/",
+   "id": 61,
+   "wav_main": "0061_main.wav",
+   "wav_pr": "0061_pr.wav"
+  },
+  {
+   "set": "changed",
+   "word": "ธุดงคสมาทาน",
+   "main": "tʰu↑.donɡ→.kʰa↑.sa↓.maː→.tʰaːn→",
+   "pr": "tʰu↑.doŋ→.kʰa↑.sa↓.maː→.tʰaːn→",
+   "ipa_main": "/tʰu˦˥.dong˧.kʰa˦˥.sa˨˩.maː˧.tʰaːn˧/",
+   "ipa_pr": "/tʰu˦˥.doŋ˧.kʰa˦˥.sa˨˩.maː˧.tʰaːn˧/",
+   "id": 62,
+   "wav_main": "0062_main.wav",
+   "wav_pr": "0062_pr.wav"
+  },
+  {
+   "set": "changed",
+   "word": "ธุดงค์",
+   "main": "tʰu↑.donɡ→",
+   "pr": "tʰu↑.doŋ→",
+   "ipa_main": "/tʰu˦˥.dong˧/",
+   "ipa_pr": "/tʰu˦˥.doŋ˧/",
+   "id": 63,
+   "wav_main": "0063_main.wav",
+   "wav_pr": "0063_pr.wav"
+  },
+  {
+   "set": "changed",
+   "word": "นริศร",
+   "main": "na↑.rit↑.sa↓.ɔːn→",
+   "pr": "na↑.rit↑.sa↓.ʔɔːn→",
+   "ipa_main": "/na˦˥.rit̚˦˥.sa˨˩.ɔːn˧/",
+   "ipa_pr": "/na˦˥.rit̚˦˥.sa˨˩.ʔɔːn˧/",
+   "id": 64,
+   "wav_main": "0064_main.wav",
+   "wav_pr": "0064_pr.wav"
+  },
+  {
+   "set": "changed",
+   "word": "การเกษตร",
+   "main": "kaːn→.ka↓.seːːt↓",
+   "pr": "kaːn→.ka↓.seːt↓",
+   "ipa_main": "/kaːn˧.ka˨˩.seːːt̚˨˩/",
+   "ipa_pr": "/kaːn˧.ka˨˩.seːt̚˨˩/",
+   "id": 65,
+   "wav_main": "0065_main.wav",
+   "wav_pr": "0065_pr.wav"
+  },
+  {
+   "set": "changed",
+   "word": "ดาวน์เกรด",
+   "main": "daːw→.kreːːt↓",
+   "pr": "daːw→.kreːt↓",
+   "ipa_main": "/daːw˧.kreːːt̚˨˩/",
+   "ipa_pr": "/daːw˧.kreːt̚˨˩/",
+   "id": 66,
+   "wav_main": "0066_main.wav",
+   "wav_pr": "0066_pr.wav"
+  },
+  {
+   "set": "changed",
+   "word": "บริวเวอรี่ส์",
+   "main": "briu→.wɤː→.riː↘",
+   "pr": "briw→.wɤː→.riː↘",
+   "ipa_main": "/briu˧.wɤː˧.riː˥˩/",
+   "ipa_pr": "/briw˧.wɤː˧.riː˥˩/",
+   "id": 67,
+   "wav_main": "0067_main.wav",
+   "wav_pr": "0067_pr.wav"
+  },
+  {
+   "set": "changed",
+   "word": "บริวเวอร์",
+   "main": "briu→.wɤː→",
+   "pr": "briw→.wɤː→",
+   "ipa_main": "/briu˧.wɤː˧/",
+   "ipa_pr": "/briw˧.wɤː˧/",
+   "id": 68,
+   "wav_main": "0068_main.wav",
+   "wav_pr": "0068_pr.wav"
+  },
+  {
+   "set": "changed",
+   "word": "บาร์บีคิว",
+   "main": "baː→.biː→.khiw→",
+   "pr": "baː→.biː→.kʰiw→",
+   "ipa_main": "/baː˧.biː˧.khiw˧/",
+   "ipa_pr": "/baː˧.biː˧.kʰiw˧/",
+   "id": 69,
+   "wav_main": "0069_main.wav",
+   "wav_pr": "0069_pr.wav"
+  },
+  {
+   "set": "changed",
+   "word": "บีเยศ",
+   "main": "biː→.jeet↘",
+   "pr": "biː→.jeːt↘",
+   "ipa_main": "/biː˧.jeet̚˥˩/",
+   "ipa_pr": "/biː˧.jeːt̚˥˩/",
+   "id": 70,
+   "wav_main": "0070_main.wav",
+   "wav_pr": "0070_pr.wav"
+  },
+  {
+   "set": "changed",
+   "word": "บ้านควนพนางตุง",
+   "main": "baːn↘.kʰuːan→.pʰa↑.naːŋ→.tuŋ→",
+   "pr": "baːn↘.kʰuan→.pʰa↑.naːŋ→.tuŋ→",
+   "ipa_main": "/baːn˥˩.kʰuːan˧.pʰa˦˥.naːŋ˧.tuŋ˧/",
+   "ipa_pr": "/baːn˥˩.kʰua̯n˧.pʰa˦˥.naːŋ˧.tuŋ˧/",
+   "id": 71,
+   "wav_main": "0071_main.wav",
+   "wav_pr": "0071_pr.wav"
+  },
+  {
+   "set": "changed",
+   "word": "บ้านควนลังงา",
+   "main": "baːn↘.kʰuːan→.laŋ→.ŋaː→",
+   "pr": "baːn↘.kʰuan→.laŋ→.ŋaː→",
+   "ipa_main": "/baːn˥˩.kʰuːan˧.laŋ˧.ŋaː˧/",
+   "ipa_pr": "/baːn˥˩.kʰua̯n˧.laŋ˧.ŋaː˧/",
+   "id": 72,
+   "wav_main": "0072_main.wav",
+   "wav_pr": "0072_pr.wav"
+  },
+  {
+   "set": "changed",
+   "word": "บ้านสวน",
+   "main": "baːn↘.suːan↗",
+   "pr": "baːn↘.suan↗",
+   "ipa_main": "/baːn˥˩.suːan˩˩˦/",
+   "ipa_pr": "/baːn˥˩.sua̯n˩˩˦/",
+   "id": 73,
+   "wav_main": "0073_main.wav",
+   "wav_pr": "0073_pr.wav"
+  },
+  {
+   "set": "changed",
+   "word": "บ้าห้าร้อยจำพวก",
+   "main": "baː↘.haː↘.rɔːj↑.ʨam→.pʰuːak↘",
+   "pr": "baː↘.haː↘.rɔːj↑.ʨam→.pʰuak↘",
+   "ipa_main": "/baː˥˩.haː˥˩.rɔːj˦˥.t͡ɕam˧.pʰuːak̚˥˩/",
+   "ipa_pr": "/baː˥˩.haː˥˩.rɔːj˦˥.t͡ɕam˧.pʰua̯k̚˥˩/",
+   "id": 74,
+   "wav_main": "0074_main.wav",
+   "wav_pr": "0074_pr.wav"
+  },
+  {
+   "set": "changed",
+   "word": "ประโยชน์ส่วนรวม",
+   "main": "pra↓.joːt↓.suan↓.rua→m→",
+   "pr": "pra↓.joːt↓.suan↓.ruam→",
+   "ipa_main": "/pra˨˩.joːt̚˨˩.sua̯n˨˩.rua˧m˧/",
+   "ipa_pr": "/pra˨˩.joːt̚˨˩.sua̯n˨˩.rua̯m˧/",
+   "id": 75,
+   "wav_main": "0075_main.wav",
+   "wav_pr": "0075_pr.wav"
+  },
+  {
+   "set": "changed",
+   "word": "ปากเปียก",
+   "main": "paːk↓.piaːk↓",
+   "pr": "paːk↓.piak↓",
+   "ipa_main": "/paːk̚˨˩.piaːk̚˨˩/",
+   "ipa_pr": "/paːk̚˨˩.pia̯k̚˨˩/",
+   "id": 76,
+   "wav_main": "0076_main.wav",
+   "wav_pr": "0076_pr.wav"
+  },
+  {
+   "set": "changed",
+   "word": "ปากเปียกปากแฉะ",
+   "main": "paːk↓.piaːk↓.paːk↓.ʨʰɛʔ↓",
+   "pr": "paːk↓.piak↓.paːk↓.ʨʰɛʔ↓",
+   "ipa_main": "/paːk̚˨˩.piaːk̚˨˩.paːk̚˨˩.t͡ɕʰɛʔ˨˩/",
+   "ipa_pr": "/paːk̚˨˩.pia̯k̚˨˩.paːk̚˨˩.t͡ɕʰɛʔ˨˩/",
+   "id": 77,
+   "wav_main": "0077_main.wav",
+   "wav_pr": "0077_pr.wav"
+  },
+  {
+   "set": "changed",
+   "word": "ผู้ก่อการร้ายคอมมิวนิสต์",
+   "main": "pʰuː↘.kɔː↓.kaːn→.raːj↑.kʰɔm→.miu→.nit↑",
+   "pr": "pʰuː↘.kɔː↓.kaːn→.raːj↑.kʰɔm→.miw→.nit↑",
+   "ipa_main": "/pʰuː˥˩.kɔː˨˩.kaːn˧.raːj˦˥.kʰɔm˧.miu˧.nit̚˦˥/",
+   "ipa_pr": "/pʰuː˥˩.kɔː˨˩.kaːn˧.raːj˦˥.kʰɔm˧.miw˧.nit̚˦˥/",
+   "id": 78,
+   "wav_main": "0078_main.wav",
+   "wav_pr": "0078_pr.wav"
+  },
+  {
+   "set": "changed",
+   "word": "พลองแก้มอ้น",
+   "main": "pʰlɔːŋ→.kɛːm↘.ɔːn↘",
+   "pr": "pʰlɔːŋ→.kɛːm↘.ʔɔːn↘",
+   "ipa_main": "/pʰlɔːŋ˧.kɛːm˥˩.ɔːn˥˩/",
+   "ipa_pr": "/pʰlɔːŋ˧.kɛːm˥˩.ʔɔːn˥˩/",
+   "id": 79,
+   "wav_main": "0079_main.wav",
+   "wav_pr": "0079_pr.wav"
+  },
+  {
+   "set": "changed",
+   "word": "มิวสิก",
+   "main": "miu→.sik↓",
+   "pr": "miw→.sik↓",
+   "ipa_main": "/miu˧.sik̚˨˩/",
+   "ipa_pr": "/miw˧.sik̚˨˩/",
+   "id": 80,
+   "wav_main": "0080_main.wav",
+   "wav_pr": "0080_pr.wav"
+  },
+  {
+   "set": "changed",
+   "word": "มิวสิค",
+   "main": "miu→.sik↑",
+   "pr": "miw→.sik↑",
+   "ipa_main": "/miu˧.sik̚˦˥/",
+   "ipa_pr": "/miw˧.sik̚˦˥/",
+   "id": 81,
+   "wav_main": "0081_main.wav",
+   "wav_pr": "0081_pr.wav"
+  },
+  {
+   "set": "changed",
+   "word": "มิวสิควิดีโอ",
+   "main": "miu→.sik↑.wi→.diː→.ʔoː→",
+   "pr": "miw→.sik↑.wi→.diː→.ʔoː→",
+   "ipa_main": "/miu˧.sik̚˦˥.wi˧.diː˧.ʔoː˧/",
+   "ipa_pr": "/miw˧.sik̚˦˥.wi˧.diː˧.ʔoː˧/",
+   "id": 82,
+   "wav_main": "0082_main.wav",
+   "wav_pr": "0082_pr.wav"
+  },
+  {
+   "set": "changed",
+   "word": "มิวสิคัล",
+   "main": "miu→.si→.kʰan→",
+   "pr": "miw→.si→.kʰan→",
+   "ipa_main": "/miu˧.si˧.kʰan˧/",
+   "ipa_pr": "/miw˧.si˧.kʰan˧/",
+   "id": 83,
+   "wav_main": "0083_main.wav",
+   "wav_pr": "0083_pr.wav"
+  },
+  {
+   "set": "changed",
+   "word": "มิวออน",
+   "main": "miu→.ʔɔːn→",
+   "pr": "miw→.ʔɔːn→",
+   "ipa_main": "/miu˧.ʔɔːn˧/",
+   "ipa_pr": "/miw˧.ʔɔːn˧/",
+   "id": 84,
+   "wav_main": "0084_main.wav",
+   "wav_pr": "0084_pr.wav"
+  },
+  {
+   "set": "changed",
+   "word": "มิวเซียม",
+   "main": "miu→.siam→",
+   "pr": "miw→.siam→",
+   "ipa_main": "/miu˧.sia̯m˧/",
+   "ipa_pr": "/miw˧.sia̯m˧/",
+   "id": 85,
+   "wav_main": "0085_main.wav",
+   "wav_pr": "0085_pr.wav"
+  },
+  {
+   "set": "changed",
+   "word": "มิวเตท",
+   "main": "miu→.teːt↓",
+   "pr": "miw→.teːt↓",
+   "ipa_main": "/miu˧.teːt̚˨˩/",
+   "ipa_pr": "/miw˧.teːt̚˨˩/",
+   "id": 86,
+   "wav_main": "0086_main.wav",
+   "wav_pr": "0086_pr.wav"
+  },
+  {
+   "set": "changed",
+   "word": "มีดกรีดกล้วย",
+   "main": "miːt↘.kriːt↓.kluːaj↘",
+   "pr": "miːt↘.kriːt↓.kluaj↘",
+   "ipa_main": "/miːt̚˥˩.kriːt̚˨˩.kluːa̯j˥˩/",
+   "ipa_pr": "/miːt̚˥˩.kriːt̚˨˩.klua̯j˥˩/",
+   "id": 87,
+   "wav_main": "0087_main.wav",
+   "wav_pr": "0087_pr.wav"
+  },
+  {
+   "set": "changed",
+   "word": "มีดหวด",
+   "main": "miːt↘.wuːat↓",
+   "pr": "miːt↘.wuat↓",
+   "ipa_main": "/miːt̚˥˩.wuːat̚˨˩/",
+   "ipa_pr": "/miːt̚˥˩.wua̯t̚˨˩/",
+   "id": 88,
+   "wav_main": "0088_main.wav",
+   "wav_pr": "0088_pr.wav"
+  },
+  {
+   "set": "changed",
+   "word": "ยกตัวอย่าง",
+   "main": "jok↑.tua→.jaaŋ↓",
+   "pr": "jok↑.tua→.jaːŋ↓",
+   "ipa_main": "/jok̚˦˥.tua̯˧.jaaŋ˨˩/",
+   "ipa_pr": "/jok̚˦˥.tua̯˧.jaːŋ˨˩/",
+   "id": 89,
+   "wav_main": "0089_main.wav",
+   "wav_pr": "0089_pr.wav"
+  },
+  {
+   "set": "changed",
+   "word": "ยกตัวอย่างเช่น",
+   "main": "jok↑.tua→.jaaŋ↓.ʨʰen↘",
+   "pr": "jok↑.tua→.jaːŋ↓.ʨʰen↘",
+   "ipa_main": "/jok̚˦˥.tua̯˧.jaaŋ˨˩.t͡ɕʰen˥˩/",
+   "ipa_pr": "/jok̚˦˥.tua̯˧.jaːŋ˨˩.t͡ɕʰen˥˩/",
+   "id": 90,
+   "wav_main": "0090_main.wav",
+   "wav_pr": "0090_pr.wav"
+  },
+  {
+   "set": "changed",
+   "word": "ยวรยาตร",
+   "main": "juaːn→.jaːt↓",
+   "pr": "juan→.jaːt↓",
+   "ipa_main": "/juaːn˧.jaːt̚˨˩/",
+   "ipa_pr": "/jua̯n˧.jaːt̚˨˩/",
+   "id": 91,
+   "wav_main": "0091_main.wav",
+   "wav_pr": "0091_pr.wav"
+  },
+  {
+   "set": "changed",
+   "word": "ระวังตัว",
+   "main": "ra↑.waŋ→.tuaː→",
+   "pr": "ra↑.waŋ→.tua→",
+   "ipa_main": "/ra˦˥.waŋ˧.tuaː˧/",
+   "ipa_pr": "/ra˦˥.waŋ˧.tua̯˧/",
+   "id": 92,
+   "wav_main": "0092_main.wav",
+   "wav_pr": "0092_pr.wav"
+  },
+  {
+   "set": "changed",
+   "word": "ระเนียด",
+   "main": "ra↑.niaːt↑",
+   "pr": "ra↑.niat↑",
+   "ipa_main": "/ra˦˥.niaːt̚˦˥/",
+   "ipa_pr": "/ra˦˥.nia̯t̚˦˥/",
+   "id": 93,
+   "wav_main": "0093_main.wav",
+   "wav_pr": "0093_pr.wav"
+  },
+  {
+   "set": "changed",
+   "word": "ริยัลซาอุดีอาระเบีย",
+   "main": "ri↑.jan→.saː→.ʔu↓.diː→.ʔaː→.ra↑.biːa→",
+   "pr": "ri↑.jan→.saː→.ʔu↓.diː→.ʔaː→.ra↑.bia→",
+   "ipa_main": "/ri˦˥.jan˧.saː˧.ʔu˨˩.diː˧.ʔaː˧.ra˦˥.biːa̯˧/",
+   "ipa_pr": "/ri˦˥.jan˧.saː˧.ʔu˨˩.diː˧.ʔaː˧.ra˦˥.bia̯˧/",
+   "id": 94,
+   "wav_main": "0094_main.wav",
+   "wav_pr": "0094_pr.wav"
+  },
+  {
+   "set": "changed",
+   "word": "รูปสามเหลี่ยม",
+   "main": "ruːp↘.saːm↗.liaːm↘",
+   "pr": "ruːp↘.saːm↗.liam↘",
+   "ipa_main": "/ruːp̚˥˩.saːm˩˩˦.liaːm˥˩/",
+   "ipa_pr": "/ruːp̚˥˩.saːm˩˩˦.lia̯m˥˩/",
+   "id": 95,
+   "wav_main": "0095_main.wav",
+   "wav_pr": "0095_pr.wav"
+  },
+  {
+   "set": "changed",
+   "word": "ลัทธิคอมมิวนิสม์",
+   "main": "lat↑.tʰi↑.kʰɔm→.miu→.nit↑",
+   "pr": "lat↑.tʰi↑.kʰɔm→.miw→.nit↑",
+   "ipa_main": "/lat̚˦˥.tʰi˦˥.kʰɔm˧.miu˧.nit̚˦˥/",
+   "ipa_pr": "/lat̚˦˥.tʰi˦˥.kʰɔm˧.miw˧.nit̚˦˥/",
+   "id": 96,
+   "wav_main": "0096_main.wav",
+   "wav_pr": "0096_pr.wav"
+  },
+  {
+   "set": "changed",
+   "word": "ภูมิศาสตร์การเกษตร",
+   "main": "pʰuː→.mi→.saːt↓.kaːn→.ka↓.seːːt↓",
+   "pr": "pʰuː→.mi→.saːt↓.kaːn→.ka↓.seːt↓",
+   "ipa_main": "/pʰuː˧.mi˧.saːt̚˨˩.kaːn˧.ka˨˩.seːːt̚˨˩/",
+   "ipa_pr": "/pʰuː˧.mi˧.saːt̚˨˩.kaːn˧.ka˨˩.seːt̚˨˩/",
+   "id": 97,
+   "wav_main": "0097_main.wav",
+   "wav_pr": "0097_pr.wav"
+  },
+  {
+   "set": "changed",
+   "word": "ล้วงลึก",
+   "main": "luːaŋ↑.lɯk↑",
+   "pr": "luaŋ↑.lɯk↑",
+   "ipa_main": "/luːa̯ŋ˦˥.lɯk̚˦˥/",
+   "ipa_pr": "/lua̯ŋ˦˥.lɯk̚˦˥/",
+   "id": 98,
+   "wav_main": "0098_main.wav",
+   "wav_pr": "0098_pr.wav"
+  },
+  {
+   "set": "changed",
+   "word": "ล้วงไส้",
+   "main": "luːaŋ↑.saj↘",
+   "pr": "luaŋ↑.saj↘",
+   "ipa_main": "/luːa̯ŋ˦˥.saj˥˩/",
+   "ipa_pr": "/lua̯ŋ˦˥.saj˥˩/",
+   "id": 99,
+   "wav_main": "0099_main.wav",
+   "wav_pr": "0099_pr.wav"
+  },
+  {
+   "set": "changed",
+   "word": "ล้วน ๆ",
+   "main": "luːan↑.luːan↑",
+   "pr": "luan↑.luan↑",
+   "ipa_main": "/luːa̯n˦˥.luːa̯n˦˥/",
+   "ipa_pr": "/lua̯n˦˥.lua̯n˦˥/",
+   "id": 100,
+   "wav_main": "0100_main.wav",
+   "wav_pr": "0100_pr.wav"
+  },
+  {
+   "set": "changed",
+   "word": "ล้วนด้วย",
+   "main": "luːan↑.duːaj↘",
+   "pr": "luan↑.duaj↘",
+   "ipa_main": "/luːa̯n˦˥.duːa̯j˥˩/",
+   "ipa_pr": "/lua̯n˦˥.dua̯j˥˩/",
+   "id": 101,
+   "wav_main": "0101_main.wav",
+   "wav_pr": "0101_pr.wav"
+  },
+  {
+   "set": "changed",
+   "word": "ล้วนแต่",
+   "main": "luːan↑.tɛː↓",
+   "pr": "luan↑.tɛː↓",
+   "ipa_main": "/luːa̯n˦˥.tɛː˨˩/",
+   "ipa_pr": "/lua̯n˦˥.tɛː˨˩/",
+   "id": 102,
+   "wav_main": "0102_main.wav",
+   "wav_pr": "0102_pr.wav"
+  },
+  {
+   "set": "changed",
+   "word": "ล้วนแล้ว",
+   "main": "luːan↑.lɛːw↑",
+   "pr": "luan↑.lɛːw↑",
+   "ipa_main": "/luːa̯n˦˥.lɛːw˦˥/",
+   "ipa_pr": "/lua̯n˦˥.lɛːw˦˥/",
+   "id": 103,
+   "wav_main": "0103_main.wav",
+   "wav_pr": "0103_pr.wav"
+  },
+  {
+   "set": "changed",
+   "word": "ล้วนแล้วแต่",
+   "main": "luːan↑.lɛːw↑.tɛː↓",
+   "pr": "luan↑.lɛːw↑.tɛː↓",
+   "ipa_main": "/luːa̯n˦˥.lɛːw˦˥.tɛː˨˩/",
+   "ipa_pr": "/lua̯n˦˥.lɛːw˦˥.tɛː˨˩/",
+   "id": 104,
+   "wav_main": "0104_main.wav",
+   "wav_pr": "0104_pr.wav"
+  },
+  {
+   "set": "changed",
+   "word": "ล้อมรั้ว",
+   "main": "lɔːm↑.ruːa↑",
+   "pr": "lɔːm↑.rua↑",
+   "ipa_main": "/lɔːm˦˥.ruːa̯˦˥/",
+   "ipa_pr": "/lɔːm˦˥.rua̯˦˥/",
+   "id": 105,
+   "wav_main": "0105_main.wav",
+   "wav_pr": "0105_pr.wav"
+  },
+  {
+   "set": "changed",
+   "word": "ล้อเลื่อน",
+   "main": "lɔː↑.lɯːan↘",
+   "pr": "lɔː↑.lɯan↘",
+   "ipa_main": "/lɔː˦˥.lɯːa̯n˥˩/",
+   "ipa_pr": "/lɔː˦˥.lɯa̯n˥˩/",
+   "id": 106,
+   "wav_main": "0106_main.wav",
+   "wav_pr": "0106_pr.wav"
+  },
+  {
+   "set": "changed",
+   "word": "ล้างซวย",
+   "main": "laːŋ↑.suːaj→",
+   "pr": "laːŋ↑.suaj→",
+   "ipa_main": "/laːŋ˦˥.suːa̯j˧/",
+   "ipa_pr": "/laːŋ˦˥.sua̯j˧/",
+   "id": 107,
+   "wav_main": "0107_main.wav",
+   "wav_pr": "0107_pr.wav"
+  },
+  {
+   "set": "changed",
+   "word": "วัจกุฎี",
+   "main": "wat↑.ku↓.ʔdiː→",
+   "pr": "wat↑.ku↓.diː→",
+   "ipa_main": "/wat̚˦˥.ku˨˩.ʔdiː˧/",
+   "ipa_pr": "/wat̚˦˥.ku˨˩.diː˧/",
+   "id": 108,
+   "wav_main": "0108_main.wav",
+   "wav_pr": "0108_pr.wav"
+  },
+  {
+   "set": "changed",
+   "word": "วิทยุติดตามตัว",
+   "main": "wit↑.tʰa↑.juʔ↑.tit↓.taːm→.tuːa→",
+   "pr": "wit↑.tʰa↑.juʔ↑.tit↓.taːm→.tua→",
+   "ipa_main": "/wit̚˦˥.tʰa˦˥.juʔ˦˥.tit̚˨˩.taːm˧.tuːa˧/",
+   "ipa_pr": "/wit̚˦˥.tʰa˦˥.juʔ˦˥.tit̚˨˩.taːm˧.tua̯˧/",
+   "id": 109,
+   "wav_main": "0109_main.wav",
+   "wav_pr": "0109_pr.wav"
+  },
+  {
+   "set": "changed",
+   "word": "ศรีภรรเมีย",
+   "main": "siː↗.pʰan→.miːa→",
+   "pr": "siː↗.pʰan→.mia→",
+   "ipa_main": "/siː˩˩˦.pʰan˧.miːa̯˧/",
+   "ipa_pr": "/siː˩˩˦.pʰan˧.mia̯˧/",
+   "id": 110,
+   "wav_main": "0110_main.wav",
+   "wav_pr": "0110_pr.wav"
+  },
+  {
+   "set": "changed",
+   "word": "ศาสนาเปรียบเทียบ",
+   "main": "saːt↓.sa↓.naː↗.priaːp↓.tʰiaːp↘",
+   "pr": "saːt↓.sa↓.naː↗.priap↓.tʰiap↘",
+   "ipa_main": "/saːt̚˨˩.sa˨˩.naː˩˩˦.priaːp̚˨˩.tʰiaːp̚˥˩/",
+   "ipa_pr": "/saːt̚˨˩.sa˨˩.naː˩˩˦.pria̯p̚˨˩.tʰia̯p̚˥˩/",
+   "id": 111,
+   "wav_main": "0111_main.wav",
+   "wav_pr": "0111_pr.wav"
+  },
+  {
+   "set": "changed",
+   "word": "ศิลป์ พีระศรี",
+   "main": "sin↗",
+   "pr": "sin↗.pʰiː→.ra↑.siː↗",
+   "ipa_main": "/sin˩˩˦ pʰiː˧.ra˦˥.siː˩˩˦/",
+   "ipa_pr": "/sin˩˩˦.pʰiː˧.ra˦˥.siː˩˩˦/",
+   "id": 112,
+   "wav_main": "0112_main.wav",
+   "wav_pr": "0112_pr.wav"
+  },
+  {
+   "set": "changed",
+   "word": "สงเษป",
+   "main": "soŋ↗.kʰseːp↓",
+   "pr": "soŋ↗.seːp↓",
+   "ipa_main": "/soŋ˩˩˦.kʰseːp̚˨˩/",
+   "ipa_pr": "/soŋ˩˩˦.seːp̚˨˩/",
+   "id": 113,
+   "wav_main": "0113_main.wav",
+   "wav_pr": "0113_pr.wav"
+  },
+  {
+   "set": "changed",
+   "word": "สตริกนิน",
+   "main": "sa↓.trik↓.ni→n→",
+   "pr": "sa↓.trik↓.nin→",
+   "ipa_main": "/sa˨˩.trik̚˨˩.ni˧n˧/",
+   "ipa_pr": "/sa˨˩.trik̚˨˩.nin˧/",
+   "id": 114,
+   "wav_main": "0114_main.wav",
+   "wav_pr": "0114_pr.wav"
+  },
+  {
+   "set": "changed",
+   "word": "สิบพ่อค้าไม่เท่าพระยาเลี้ยง",
+   "main": "sip↓.pʰɔː↘.kʰaː↑.maj↘.tʰaw↘.pʰra↑.jaː→.liːaŋ↑",
+   "pr": "sip↓.pʰɔː↘.kʰaː↑.maj↘.tʰaw↘.pʰra↑.jaː→.liaŋ↑",
+   "ipa_main": "/sip̚˨˩.pʰɔː˥˩.kʰaː˦˥.maj˥˩.tʰaw˥˩.pʰra˦˥.jaː˧.liːaŋ˦˥/",
+   "ipa_pr": "/sip̚˨˩.pʰɔː˥˩.kʰaː˦˥.maj˥˩.tʰaw˥˩.pʰra˦˥.jaː˧.lia̯ŋ˦˥/",
+   "id": 115,
+   "wav_main": "0115_main.wav",
+   "wav_pr": "0115_pr.wav"
+  },
+  {
+   "set": "changed",
+   "word": "สิบสองเหลี่ยม",
+   "main": "sip↓.sɔːŋ↗.liːam↓",
+   "pr": "sip↓.sɔːŋ↗.liam↓",
+   "ipa_main": "/sip̚˨˩.sɔːŋ˩˩˦.liːam˨˩/",
+   "ipa_pr": "/sip̚˨˩.sɔːŋ˩˩˦.lia̯m˨˩/",
+   "id": 116,
+   "wav_main": "0116_main.wav",
+   "wav_pr": "0116_pr.wav"
+  },
+  {
+   "set": "changed",
+   "word": "สิบเบี้ยใกล้มือ",
+   "main": "sip↓.biːa↘.klaj↘.mɯː→",
+   "pr": "sip↓.bia↘.klaj↘.mɯː→",
+   "ipa_main": "/sip̚˨˩.biːa˥˩.klaj˥˩.mɯː˧/",
+   "ipa_pr": "/sip̚˨˩.bia̯˥˩.klaj˥˩.mɯː˧/",
+   "id": 117,
+   "wav_main": "0117_main.wav",
+   "wav_pr": "0117_pr.wav"
+  },
+  {
+   "set": "changed",
+   "word": "สิบเอ็ดเหลี่ยม",
+   "main": "sip↓.ʔet↓.liːam↓",
+   "pr": "sip↓.ʔet↓.liam↓",
+   "ipa_main": "/sip̚˨˩.ʔet̚˨˩.liːam˨˩/",
+   "ipa_pr": "/sip̚˨˩.ʔet̚˨˩.lia̯m˨˩/",
+   "id": 118,
+   "wav_main": "0118_main.wav",
+   "wav_pr": "0118_pr.wav"
+  },
+  {
+   "set": "changed",
+   "word": "สิวเสี้ยน",
+   "main": "siw↗.siːan↘",
+   "pr": "siw↗.sian↘",
+   "ipa_main": "/siw˩˩˦.siːan˥˩/",
+   "ipa_pr": "/siw˩˩˦.sia̯n˥˩/",
+   "id": 119,
+   "wav_main": "0119_main.wav",
+   "wav_pr": "0119_pr.wav"
+  },
+  {
+   "set": "changed",
+   "word": "สิ่งยึดเหนี่ยว",
+   "main": "siŋ↓.jɯt↑.niːaw↓",
+   "pr": "siŋ↓.jɯt↑.niaw↓",
+   "ipa_main": "/siŋ˨˩.jɯt̚˦˥.niːaw˨˩/",
+   "ipa_pr": "/siŋ˨˩.jɯt̚˦˥.nia̯w˨˩/",
+   "id": 120,
+   "wav_main": "0120_main.wav",
+   "wav_pr": "0120_pr.wav"
+  },
+  {
+   "set": "changed",
+   "word": "สิ่วน่อง",
+   "main": "siu↓.nɔːŋ↘",
+   "pr": "siw↓.nɔːŋ↘",
+   "ipa_main": "/siu˨˩.nɔːŋ˥˩/",
+   "ipa_pr": "/siw˨˩.nɔːŋ˥˩/",
+   "id": 121,
+   "wav_main": "0121_main.wav",
+   "wav_pr": "0121_pr.wav"
+  },
+  {
+   "set": "changed",
+   "word": "สูญเปล่า",
+   "main": "suːn↗.plao↓",
+   "pr": "suːn↗.plaw↓",
+   "ipa_main": "/suːn˩˩˦.plao˨˩/",
+   "ipa_pr": "/suːn˩˩˦.plaw˨˩/",
+   "id": 122,
+   "wav_main": "0122_main.wav",
+   "wav_pr": "0122_pr.wav"
+  },
+  {
+   "set": "changed",
+   "word": "สโลวะเกีย",
+   "main": "sa↓.loː→.waʔ↑.kiː→.a→",
+   "pr": "sa↓.loː→.waʔ↑.kiː→.ʔa→",
+   "ipa_main": "/sa˨˩.loː˧.waʔ˦˥.kiː˧.a˧/",
+   "ipa_pr": "/sa˨˩.loː˧.waʔ˦˥.kiː˧.ʔa˧/",
+   "id": 123,
+   "wav_main": "0123_main.wav",
+   "wav_pr": "0123_pr.wav"
+  },
+  {
+   "set": "changed",
+   "word": "หมิว",
+   "main": "miu↗",
+   "pr": "miw↗",
+   "ipa_main": "/miu˩˩˦/",
+   "ipa_pr": "/miw˩˩˦/",
+   "id": 124,
+   "wav_main": "0124_main.wav",
+   "wav_pr": "0124_pr.wav"
+  },
+  {
+   "set": "changed",
+   "word": "หางกวัก",
+   "main": "haːŋ↗.kwa↓.ek↓",
+   "pr": "haːŋ↗.kwa↓.ʔek↓",
+   "ipa_main": "/haːŋ˩˩˦.kwa˨˩.ek̚˨˩/",
+   "ipa_pr": "/haːŋ˩˩˦.kwa˨˩.ʔek̚˨˩/",
+   "id": 125,
+   "wav_main": "0125_main.wav",
+   "wav_pr": "0125_pr.wav"
+  },
+  {
+   "set": "changed",
+   "word": "อด ๆ อยาก ๆ",
+   "main": "ʔot↓.ʔot↓.ja↓ːk↓.ja↓ːk↓",
+   "pr": "ʔot↓.ʔot↓.jaːk↓.jaːk↓",
+   "ipa_main": "/ʔot̚˨˩.ʔot̚˨˩.ja˨˩ːk̚˨˩.ja˨˩ːk̚˨˩/",
+   "ipa_pr": "/ʔot̚˨˩.ʔot̚˨˩.jaːk̚˨˩.jaːk̚˨˩/",
+   "id": 126,
+   "wav_main": "0126_main.wav",
+   "wav_pr": "0126_pr.wav"
+  },
+  {
+   "set": "changed",
+   "word": "อะเดรียติก",
+   "main": "ʔa↓.driː→.a↓.tik↓",
+   "pr": "ʔa↓.driː→.ʔa↓.tik↓",
+   "ipa_main": "/ʔa˨˩.driː˧.a˨˩.tik̚˨˩/",
+   "ipa_pr": "/ʔa˨˩.driː˧.ʔa˨˩.tik̚˨˩/",
+   "id": 127,
+   "wav_main": "0127_main.wav",
+   "wav_pr": "0127_pr.wav"
+  },
+  {
+   "set": "changed",
+   "word": "อะแวนเดีย",
+   "main": "ʔa↓.wɛːn→.diː→.a→",
+   "pr": "ʔa↓.wɛːn→.diː→.ʔa→",
+   "ipa_main": "/ʔa˨˩.wɛːn˧.diː˧.a˧/",
+   "ipa_pr": "/ʔa˨˩.wɛːn˧.diː˧.ʔa˧/",
+   "id": 128,
+   "wav_main": "0128_main.wav",
+   "wav_pr": "0128_pr.wav"
+  },
+  {
+   "set": "changed",
+   "word": "อัจฉริยบุคคล",
+   "main": "ʔat↓.ʨʰa↓.ri→.ja↓.buk↓.khon→",
+   "pr": "ʔat↓.ʨʰa↓.ri→.ja↓.buk↓.kʰon→",
+   "ipa_main": "/ʔat̚˨˩.t͡ɕʰa˨˩.ri˧.ja˨˩.buk̚˨˩.khon˧/",
+   "ipa_pr": "/ʔat̚˨˩.t͡ɕʰa˨˩.ri˧.ja˨˩.buk̚˨˩.kʰon˧/",
+   "id": 129,
+   "wav_main": "0129_main.wav",
+   "wav_pr": "0129_pr.wav"
+  },
+  {
+   "set": "changed",
+   "word": "อาร์กิวเมนต์",
+   "main": "ʔaː→.kiu→.men→",
+   "pr": "ʔaː→.kiw→.men→",
+   "ipa_main": "/ʔaː˧.kiu˧.men˧/",
+   "ipa_pr": "/ʔaː˧.kiw˧.men˧/",
+   "id": 130,
+   "wav_main": "0130_main.wav",
+   "wav_pr": "0130_pr.wav"
+  },
+  {
+   "set": "changed",
+   "word": "อินเตอร์ มิลาน",
+   "main": "ʔin→.tɤː→",
+   "pr": "ʔin→.tɤː→.mi→.laːn→",
+   "ipa_main": "/ʔin˧.tɤː˧ mi˧.laːn˧/",
+   "ipa_pr": "/ʔin˧.tɤː˧.mi˧.laːn˧/",
+   "id": 131,
+   "wav_main": "0131_main.wav",
+   "wav_pr": "0131_pr.wav"
+  },
+  {
+   "set": "changed",
+   "word": "อีเวนท์",
+   "main": "ʔiː→.ween→",
+   "pr": "ʔiː→.weːn→",
+   "ipa_main": "/ʔiː˧.ween˧/",
+   "ipa_pr": "/ʔiː˧.weːn˧/",
+   "id": 132,
+   "wav_main": "0132_main.wav",
+   "wav_pr": "0132_pr.wav"
+  },
+  {
+   "set": "changed",
+   "word": "เก็กฮวย",
+   "main": "kek↓.uaj→",
+   "pr": "kek↓.ʔuaj→",
+   "ipa_main": "/kek̚˨˩.ua̯j˧/",
+   "ipa_pr": "/kek̚˨˩.ʔua̯j˧/",
+   "id": 133,
+   "wav_main": "0133_main.wav",
+   "wav_pr": "0133_pr.wav"
+  },
+  {
+   "set": "changed",
+   "word": "เขยื้อน",
+   "main": "kʰa↓.jɯːan↑",
+   "pr": "kʰa↓.jɯan↑",
+   "ipa_main": "/kʰa˨˩.jɯːan˦˥/",
+   "ipa_pr": "/kʰa˨˩.jɯa̯n˦˥/",
+   "id": 134,
+   "wav_main": "0134_main.wav",
+   "wav_pr": "0134_pr.wav"
+  },
+  {
+   "set": "changed",
+   "word": "เขษียร",
+   "main": "kʰa↓.siːan↗",
+   "pr": "kʰa↓.sian↗",
+   "ipa_main": "/kʰa˨˩.siːan˩˩˦/",
+   "ipa_pr": "/kʰa˨˩.sia̯n˩˩˦/",
+   "id": 135,
+   "wav_main": "0135_main.wav",
+   "wav_pr": "0135_pr.wav"
+  },
+  {
+   "set": "changed",
+   "word": "เชลยศักดิ์",
+   "main": "ʨʰa→.lɤːj→.sa↓.dii↓",
+   "pr": "ʨʰa→.lɤːj→.sa↓.diː↓",
+   "ipa_main": "/t͡ɕʰa˧.lɤːj˧.sa˨˩.dii˨˩/",
+   "ipa_pr": "/t͡ɕʰa˧.lɤːj˧.sa˨˩.diː˨˩/",
+   "id": 136,
+   "wav_main": "0136_main.wav",
+   "wav_pr": "0136_pr.wav"
+  },
+  {
+   "set": "changed",
+   "word": "เดอะมิวซิเคิล",
+   "main": "dɤʔ↓.miu→.siʔ↑.kʰɤːn→",
+   "pr": "dɤʔ↓.miw→.siʔ↑.kʰɤːn→",
+   "ipa_main": "/dɤʔ˨˩.miu˧.siʔ˦˥.kʰɤːn˧/",
+   "ipa_pr": "/dɤʔ˨˩.miw˧.siʔ˦˥.kʰɤːn˧/",
+   "id": 137,
+   "wav_main": "0137_main.wav",
+   "wav_pr": "0137_pr.wav"
+  },
+  {
+   "set": "changed",
+   "word": "เด็ดดวง",
+   "main": "det↓.duːaŋ→",
+   "pr": "det↓.duaŋ→",
+   "ipa_main": "/det̚˨˩.duːa̯ŋ˧/",
+   "ipa_pr": "/det̚˨˩.dua̯ŋ˧/",
+   "id": 138,
+   "wav_main": "0138_main.wav",
+   "wav_pr": "0138_pr.wav"
+  },
+  {
+   "set": "changed",
+   "word": "เบรียน",
+   "main": "briːan→",
+   "pr": "brian→",
+   "ipa_main": "/briːan˧/",
+   "ipa_pr": "/bria̯n˧/",
+   "id": 139,
+   "wav_main": "0139_main.wav",
+   "wav_pr": "0139_pr.wav"
+  },
+  {
+   "set": "changed",
+   "word": "เป็นการสมควร",
+   "main": "pen→.kaːn→.som↗.kʰuaːn→",
+   "pr": "pen→.kaːn→.som↗.kʰuan→",
+   "ipa_main": "/pen˧.kaːn˧.som˩˩˦.kʰuaːn˧/",
+   "ipa_pr": "/pen˧.kaːn˧.som˩˩˦.kʰua̯n˧/",
+   "id": 140,
+   "wav_main": "0140_main.wav",
+   "wav_pr": "0140_pr.wav"
+  },
+  {
+   "set": "changed",
+   "word": "เป็นตัว",
+   "main": "pen→.tuːa→",
+   "pr": "pen→.tua→",
+   "ipa_main": "/pen˧.tuːa˧/",
+   "ipa_pr": "/pen˧.tua̯˧/",
+   "id": 141,
+   "wav_main": "0141_main.wav",
+   "wav_pr": "0141_pr.wav"
+  },
+  {
+   "set": "changed",
+   "word": "เป็นตัวเป็นตน",
+   "main": "pen→.tuːa→.pen→.ton→",
+   "pr": "pen→.tua→.pen→.ton→",
+   "ipa_main": "/pen˧.tuːa˧.pen˧.ton˧/",
+   "ipa_pr": "/pen˧.tua̯˧.pen˧.ton˧/",
+   "id": 142,
+   "wav_main": "0142_main.wav",
+   "wav_pr": "0142_pr.wav"
+  },
+  {
+   "set": "changed",
+   "word": "เป็นตัวแทน",
+   "main": "pen→.tuːa→.tʰɛːn→",
+   "pr": "pen→.tua→.tʰɛːn→",
+   "ipa_main": "/pen˧.tuːa˧.tʰɛːn˧/",
+   "ipa_pr": "/pen˧.tua̯˧.tʰɛːn˧/",
+   "id": 143,
+   "wav_main": "0143_main.wav",
+   "wav_pr": "0143_pr.wav"
+  },
+  {
+   "set": "changed",
+   "word": "เป็นน้ำเป็นนวล",
+   "main": "pen→.nam↑.pen→.nuːan→",
+   "pr": "pen→.nam↑.pen→.nuan→",
+   "ipa_main": "/pen˧.nam˦˥.pen˧.nuːan˧/",
+   "ipa_pr": "/pen˧.nam˦˥.pen˧.nua̯n˧/",
+   "id": 144,
+   "wav_main": "0144_main.wav",
+   "wav_pr": "0144_pr.wav"
+  },
+  {
+   "set": "changed",
+   "word": "เป็นรายตัว",
+   "main": "pen→.raːj→.tuːa→",
+   "pr": "pen→.raːj→.tua→",
+   "ipa_main": "/pen˧.raːj˧.tuːa˧/",
+   "ipa_pr": "/pen˧.raːj˧.tua̯˧/",
+   "id": 145,
+   "wav_main": "0145_main.wav",
+   "wav_pr": "0145_pr.wav"
+  },
+  {
+   "set": "changed",
+   "word": "เลี่ยมกาบกล้วย",
+   "main": "liam↘.kaːp↓.kluːaj↘",
+   "pr": "liam↘.kaːp↓.kluaj↘",
+   "ipa_main": "/lia̯m˥˩.kaːp̚˨˩.kluːaj˥˩/",
+   "ipa_pr": "/lia̯m˥˩.kaːp̚˨˩.klua̯j˥˩/",
+   "id": 146,
+   "wav_main": "0146_main.wav",
+   "wav_pr": "0146_pr.wav"
+  },
+  {
+   "set": "changed",
+   "word": "สำปะลอ",
+   "main": "sam↗.pa↓.l",
+   "pr": "sam↗.pa↓.lɔː→",
+   "ipa_main": "/sam˩˩˦.pa˨˩.l",
+   "ipa_pr": "/sam˩˩˦.pa˨˩.lɔː˧/",
+   "id": 147,
+   "wav_main": "0147_main.wav",
+   "wav_pr": "0147_pr.wav"
+  },
+  {
+   "set": "changed",
+   "word": "อาณาเกษตร",
+   "main": "ʔaː→.naː→.ka↓.seːːt↓",
+   "pr": "ʔaː→.naː→.ka↓.seːt↓",
+   "ipa_main": "/ʔaː˧.naː˧.ka˨˩.seːːt̚˨˩/",
+   "ipa_pr": "/ʔaː˧.naː˧.ka˨˩.seːt̚˨˩/",
+   "id": 148,
+   "wav_main": "0148_main.wav",
+   "wav_pr": "0148_pr.wav"
+  },
+  {
+   "set": "changed",
+   "word": "เทคโนโลยีการเกษตรบัณฑิต",
+   "main": "tʰek↑.noː→.loː→.jiː→.kaːn→.ka↓.seːːt↓.ban→.dit↓",
+   "pr": "tʰek↑.noː→.loː→.jiː→.kaːn→.ka↓.seːt↓.ban→.dit↓",
+   "ipa_main": "/tʰek̚˦˥.noː˧.loː˧.jiː˧.kaːn˧.ka˨˩.seːːt̚˨˩.ban˧.dit̚˨˩/",
+   "ipa_pr": "/tʰek̚˦˥.noː˧.loː˧.jiː˧.kaːn˧.ka˨˩.seːt̚˨˩.ban˧.dit̚˨˩/",
+   "id": 149,
+   "wav_main": "0149_main.wav",
+   "wav_pr": "0149_pr.wav"
+  },
+  {
+   "set": "changed",
+   "word": "เทคโนโลยีการเกษตรมหาบัณฑิต",
+   "main": "tʰek↑.noː→.loː→.jiː→.kaːn→.ka↓.seːːt↓.ma↑.haː↗.ban→.dit↓",
+   "pr": "tʰek↑.noː→.loː→.jiː→.kaːn→.ka↓.seːt↓.ma↑.haː↗.ban→.dit↓",
+   "ipa_main": "/tʰek̚˦˥.noː˧.loː˧.jiː˧.kaːn˧.ka˨˩.seːːt̚˨˩.ma˦˥.haː˩˩˦.ban˧.dit̚˨˩/",
+   "ipa_pr": "/tʰek̚˦˥.noː˧.loː˧.jiː˧.kaːn˧.ka˨˩.seːt̚˨˩.ma˦˥.haː˩˩˦.ban˧.dit̚˨˩/",
+   "id": 150,
+   "wav_main": "0150_main.wav",
+   "wav_pr": "0150_pr.wav"
+  },
+  {
+   "set": "changed",
+   "word": "เห้งเจีย",
+   "main": "heːŋ↘.ʨiːa→",
+   "pr": "heːŋ↘.ʨia→",
+   "ipa_main": "/heːŋ˥˩.t͡ɕiːa̯˧/",
+   "ipa_pr": "/heːŋ˥˩.t͡ɕia̯˧/",
+   "id": 151,
+   "wav_main": "0151_main.wav",
+   "wav_pr": "0151_pr.wav"
+  },
+  {
+   "set": "changed",
+   "word": "เอทิโอเปีย",
+   "main": "ʔeː→.tʰi↑.ʔoː→.piːa→",
+   "pr": "ʔeː→.tʰi↑.ʔoː→.pia→",
+   "ipa_main": "/ʔeː˧.tʰi˦˥.ʔoː˧.piːa̯˧/",
+   "ipa_pr": "/ʔeː˧.tʰi˦˥.ʔoː˧.pia̯˧/",
+   "id": 152,
+   "wav_main": "0152_main.wav",
+   "wav_pr": "0152_pr.wav"
+  },
+  {
+   "set": "changed",
+   "word": "เอนเซฟาลิติส",
+   "main": "ʔeːn→.seː→.fʰaː→.li↑.tit↑",
+   "pr": "ʔeːn→.seː→.faː→.li↑.tit↑",
+   "ipa_main": "/ʔeːn˧.seː˧.fʰaː˧.li˦˥.tit̚˦˥/",
+   "ipa_pr": "/ʔeːn˧.seː˧.faː˧.li˦˥.tit̚˦˥/",
+   "id": 153,
+   "wav_main": "0153_main.wav",
+   "wav_pr": "0153_pr.wav"
+  },
+  {
+   "set": "changed",
+   "word": "แท้งกิ้ว",
+   "main": "tʰɛːŋ↑.kiu↘",
+   "pr": "tʰɛːŋ↑.kiw↘",
+   "ipa_main": "/tʰɛːŋ˦˥.kiu˥˩/",
+   "ipa_pr": "/tʰɛːŋ˦˥.kiw˥˩/",
+   "id": 154,
+   "wav_main": "0154_main.wav",
+   "wav_pr": "0154_pr.wav"
+  },
+  {
+   "set": "changed",
+   "word": "แปะฮวยแปขี่เฉ้า",
+   "main": "pɛʔ↓.uaj→.pɛː→.kʰiː↓.ʨʰaw↑",
+   "pr": "pɛʔ↓.ʔuaj→.pɛː→.kʰiː↓.ʨʰaw↑",
+   "ipa_main": "/pɛʔ˨˩.uaj˧.pɛː˧.kʰiː˨˩.t͡ɕʰaw˦˥/",
+   "ipa_pr": "/pɛʔ˨˩.ʔua̯j˧.pɛː˧.kʰiː˨˩.t͡ɕʰaw˦˥/",
+   "id": 155,
+   "wav_main": "0155_main.wav",
+   "wav_pr": "0155_pr.wav"
+  },
+  {
+   "set": "changed",
+   "word": "แป้งเปียก",
+   "main": "pɛːŋ↘.piaːk↓",
+   "pr": "pɛːŋ↘.piak↓",
+   "ipa_main": "/pɛːŋ˥˩.piaːk̚˨˩/",
+   "ipa_pr": "/pɛːŋ˥˩.pia̯k̚˨˩/",
+   "id": 156,
+   "wav_main": "0156_main.wav",
+   "wav_pr": "0156_pr.wav"
+  },
+  {
+   "set": "changed",
+   "word": "แผดเสียง",
+   "main": "pʰɛːt↓.siaːŋ↗",
+   "pr": "pʰɛːt↓.siaŋ↗",
+   "ipa_main": "/pʰɛːt̚˨˩.siaːŋ˩˩˦/",
+   "ipa_pr": "/pʰɛːt̚˨˩.sia̯ŋ˩˩˦/",
+   "id": 157,
+   "wav_main": "0157_main.wav",
+   "wav_pr": "0157_pr.wav"
+  },
+  {
+   "set": "changed",
+   "word": "แรดตัวผู้",
+   "main": "rɛːt↘.tuːa→.pʰuː↘",
+   "pr": "rɛːt↘.tua→.pʰuː↘",
+   "ipa_main": "/rɛːt̚˥˩.tuːa̯˧.pʰuː˥˩/",
+   "ipa_pr": "/rɛːt̚˥˩.tua̯˧.pʰuː˥˩/",
+   "id": 158,
+   "wav_main": "0158_main.wav",
+   "wav_pr": "0158_pr.wav"
+  },
+  {
+   "set": "changed",
+   "word": "แรดตัวเมีย",
+   "main": "rɛːt↘.tuːa→.miːa→",
+   "pr": "rɛːt↘.tua→.mia→",
+   "ipa_main": "/rɛːt̚˥˩.tuːa̯˧.miːa̯˧/",
+   "ipa_pr": "/rɛːt̚˥˩.tua̯˧.mia̯˧/",
+   "id": 159,
+   "wav_main": "0159_main.wav",
+   "wav_pr": "0159_pr.wav"
+  },
+  {
+   "set": "changed",
+   "word": "แล่นทวนลม",
+   "main": "lɛːn↘.tʰuːan→.lom→",
+   "pr": "lɛːn↘.tʰuan→.lom→",
+   "ipa_main": "/lɛːn˥˩.tʰuːa̯n˧.lom˧/",
+   "ipa_pr": "/lɛːn˥˩.tʰua̯n˧.lom˧/",
+   "id": 160,
+   "wav_main": "0160_main.wav",
+   "wav_pr": "0160_pr.wav"
+  },
+  {
+   "set": "changed",
+   "word": "แล้วด้วย",
+   "main": "lɛːw↑.duːaj↘",
+   "pr": "lɛːw↑.duaj↘",
+   "ipa_main": "/lɛːw˦˥.duːa̯j˥˩/",
+   "ipa_pr": "/lɛːw˦˥.dua̯j˥˩/",
+   "id": 161,
+   "wav_main": "0161_main.wav",
+   "wav_pr": "0161_pr.wav"
+  },
+  {
+   "set": "changed",
+   "word": "แล้วไปด้วย",
+   "main": "lɛːw↑.paj→.duːaj↘",
+   "pr": "lɛːw↑.paj→.duaj↘",
+   "ipa_main": "/lɛːw˦˥.paj˧.duːa̯j˥˩/",
+   "ipa_pr": "/lɛːw˦˥.paj˧.dua̯j˥˩/",
+   "id": 162,
+   "wav_main": "0162_main.wav",
+   "wav_pr": "0162_pr.wav"
+  },
+  {
+   "set": "changed",
+   "word": "โดยเฉลี่ย",
+   "main": "doːj→.ʨʰa↓.liːa↓",
+   "pr": "doːj→.ʨʰa↓.lia↓",
+   "ipa_main": "/doːj˧.t͡ɕʰa˨˩.liːa̯˨˩/",
+   "ipa_pr": "/doːj˧.t͡ɕʰa˨˩.lia̯˨˩/",
+   "id": 163,
+   "wav_main": "0163_main.wav",
+   "wav_pr": "0163_pr.wav"
+  },
+  {
+   "set": "changed",
+   "word": "ไขเสนียด",
+   "main": "kʰaj↗.sa↓.niaːt↓",
+   "pr": "kʰaj↗.sa↓.niat↓",
+   "ipa_main": "/kʰaj˩˩˦.sa˨˩.niaːt̚˨˩/",
+   "ipa_pr": "/kʰaj˩˩˦.sa˨˩.nia̯t̚˨˩/",
+   "id": 164,
+   "wav_main": "0164_main.wav",
+   "wav_pr": "0164_pr.wav"
+  },
+  {
+   "set": "changed",
+   "word": "ไม่มีที่เปรียบ",
+   "main": "maj↘.miː→.tʰiː↘.priaːp↓",
+   "pr": "maj↘.miː→.tʰiː↘.priap↓",
+   "ipa_main": "/maj˥˩.miː˧.tʰiː˥˩.priaːp̚˨˩/",
+   "ipa_pr": "/maj˥˩.miː˧.tʰiː˥˩.pria̯p̚˨˩/",
+   "id": 165,
+   "wav_main": "0165_main.wav",
+   "wav_pr": "0165_pr.wav"
+  },
+  {
+   "set": "changed",
+   "word": "ไม้ขาเขียด",
+   "main": "maj↑.kʰaː↗.kʰiaːt↓",
+   "pr": "maj↑.kʰaː↗.kʰiat↓",
+   "ipa_main": "/maj˦˥.kʰaː˩˩˦.kʰiaːt̚˨˩/",
+   "ipa_pr": "/maj˦˥.kʰaː˩˩˦.kʰia̯t̚˨˩/",
+   "id": 166,
+   "wav_main": "0166_main.wav",
+   "wav_pr": "0166_pr.wav"
+  },
+  {
+   "set": "changed",
+   "word": "ไส้กิ่ว",
+   "main": "saj↘.kiu↓",
+   "pr": "saj↘.kiw↓",
+   "ipa_main": "/saj˥˩.kiu̯˨˩/",
+   "ipa_pr": "/saj˥˩.kiw˨˩/",
+   "id": 167,
+   "wav_main": "0167_main.wav",
+   "wav_pr": "0167_pr.wav"
+  },
+  {
+   "set": "changed",
+   "word": "ไหว ๆ",
+   "main": "waj↗",
+   "pr": "waj↗.waj↗",
+   "ipa_main": "/waj˩˩˦ waj˩˩˦/",
+   "ipa_pr": "/waj˩˩˦.waj˩˩˦/",
+   "id": 168,
+   "wav_main": "0168_main.wav",
+   "wav_pr": "0168_pr.wav"
+  },
+  {
+   "set": "changed",
+   "word": "วดี",
+   "main": ".wa↑.diː→",
+   "pr": "wa↑.diː→",
+   "ipa_main": "/.wa˦˥.diː˧/",
+   "ipa_pr": "/wa˦˥.diː˧/",
+   "id": 169,
+   "wav_main": "0169_main.wav",
+   "wav_pr": "0169_pr.wav"
+  },
+  {
+   "set": "changed",
+   "word": "ลูกไม้หล่นไม่ไกลต้น",
+   "main": "luːk↘.maːj↑.lon↓.maj↘.kajl→.ton↘",
+   "pr": "luːk↘.maːj↑.lon↓.maj↘.klaj→.ton↘",
+   "ipa_main": "/luːk̚˥˩.maːj˦˥.lon˨˩.maj˥˩.kajl˧.ton˥˩/",
+   "ipa_pr": "/luːk̚˥˩.maːj˦˥.lon˨˩.maj˥˩.klaj˧.ton˥˩/",
+   "id": 170,
+   "wav_main": "0170_main.wav",
+   "wav_pr": "0170_pr.wav"
+  },
+  {
+   "set": "control",
+   "word": "มูลบท",
+   "main": "muːn→.bot↓",
+   "pr": "muːn→.bot↓",
+   "id": 171,
+   "wav_main": "0171_main.wav",
+   "wav_pr": "0171_main.wav"
+  },
+  {
+   "set": "control",
+   "word": "ตราภูมิ",
+   "main": "traː→.pʰuː→.miʔ↑",
+   "pr": "traː→.pʰuː→.miʔ↑",
+   "id": 172,
+   "wav_main": "0172_main.wav",
+   "wav_pr": "0172_main.wav"
+  },
+  {
+   "set": "control",
+   "word": "ศาลาท่าน้ำ",
+   "main": "saː↗.laː→.tʰaː↘.naːm↑",
+   "pr": "saː↗.laː→.tʰaː↘.naːm↑",
+   "id": 173,
+   "wav_main": "0173_main.wav",
+   "wav_pr": "0173_main.wav"
+  },
+  {
+   "set": "control",
+   "word": "สตรี",
+   "main": "sa↓.triː→",
+   "pr": "sa↓.triː→",
+   "id": 174,
+   "wav_main": "0174_main.wav",
+   "wav_pr": "0174_main.wav"
+  },
+  {
+   "set": "control",
+   "word": "กเรนทร",
+   "main": "ka↓.reːn→.tʰɔːn→",
+   "pr": "ka↓.reːn→.tʰɔːn→",
+   "id": 175,
+   "wav_main": "0175_main.wav",
+   "wav_pr": "0175_main.wav"
+  },
+  {
+   "set": "control",
+   "word": "ครองอำนาจ",
+   "main": "kʰrɔːŋ→.ʔam→.naːt↘",
+   "pr": "kʰrɔːŋ→.ʔam→.naːt↘",
+   "id": 176,
+   "wav_main": "0176_main.wav",
+   "wav_pr": "0176_main.wav"
+  },
+  {
+   "set": "control",
+   "word": "สั่งสอน",
+   "main": "saŋ↓.sɔːn↗",
+   "pr": "saŋ↓.sɔːn↗",
+   "id": 177,
+   "wav_main": "0177_main.wav",
+   "wav_pr": "0177_main.wav"
+  },
+  {
+   "set": "control",
+   "word": "เป็นเรื่อง",
+   "main": "pen→.rɯaŋ↘",
+   "pr": "pen→.rɯaŋ↘",
+   "id": 178,
+   "wav_main": "0178_main.wav",
+   "wav_pr": "0178_main.wav"
+  },
+  {
+   "set": "control",
+   "word": "คุมแจ",
+   "main": "kʰum→.ʨɛː→",
+   "pr": "kʰum→.ʨɛː→",
+   "id": 179,
+   "wav_main": "0179_main.wav",
+   "wav_pr": "0179_main.wav"
+  },
+  {
+   "set": "control",
+   "word": "ลาลีกา",
+   "main": "laː→.liː→.kaː→",
+   "pr": "laː→.liː→.kaː→",
+   "id": 180,
+   "wav_main": "0180_main.wav",
+   "wav_pr": "0180_main.wav"
+  },
+  {
+   "set": "control",
+   "word": "แทนที่จะ",
+   "main": "tʰɛːn→.tʰiː↘.ʨaʔ↓",
+   "pr": "tʰɛːn→.tʰiː↘.ʨaʔ↓",
+   "id": 181,
+   "wav_main": "0181_main.wav",
+   "wav_pr": "0181_main.wav"
+  },
+  {
+   "set": "control",
+   "word": "ขับไม้",
+   "main": "kʰap↓.maj↑",
+   "pr": "kʰap↓.maj↑",
+   "id": 182,
+   "wav_main": "0182_main.wav",
+   "wav_pr": "0182_main.wav"
+  },
+  {
+   "set": "control",
+   "word": "เคอเซอร์",
+   "main": "kʰɤː→.sɤː→",
+   "pr": "kʰɤː→.sɤː→",
+   "id": 183,
+   "wav_main": "0183_main.wav",
+   "wav_pr": "0183_main.wav"
+  },
+  {
+   "set": "control",
+   "word": "น่าหดหู่",
+   "main": "naː↘.hot↓.huː↓",
+   "pr": "naː↘.hot↓.huː↓",
+   "id": 184,
+   "wav_main": "0184_main.wav",
+   "wav_pr": "0184_main.wav"
+  },
+  {
+   "set": "control",
+   "word": "การสู่ขอ",
+   "main": "kaːn→.suː↓.kʰɔː↗",
+   "pr": "kaːn→.suː↓.kʰɔː↗",
+   "id": 185,
+   "wav_main": "0185_main.wav",
+   "wav_pr": "0185_main.wav"
+  },
+  {
+   "set": "control",
+   "word": "คอไฟ",
+   "main": "kʰɔː→.faj→",
+   "pr": "kʰɔː→.faj→",
+   "id": 186,
+   "wav_main": "0186_main.wav",
+   "wav_pr": "0186_main.wav"
+  },
+  {
+   "set": "control",
+   "word": "สูจนะ",
+   "main": "suːt↓.ʨa↓.naʔ↑",
+   "pr": "suːt↓.ʨa↓.naʔ↑",
+   "id": 187,
+   "wav_main": "0187_main.wav",
+   "wav_pr": "0187_main.wav"
+  },
+  {
+   "set": "control",
+   "word": "สัมผัสมือ",
+   "main": "sam↗.pʰat↓.mɯː→",
+   "pr": "sam↗.pʰat↓.mɯː→",
+   "id": 188,
+   "wav_main": "0188_main.wav",
+   "wav_pr": "0188_main.wav"
+  },
+  {
+   "set": "control",
+   "word": "คนพรรค์นั้น",
+   "main": "kʰon→.pʰan→.nan↑",
+   "pr": "kʰon→.pʰan→.nan↑",
+   "id": 189,
+   "wav_main": "0189_main.wav",
+   "wav_pr": "0189_main.wav"
+  },
+  {
+   "set": "control",
+   "word": "ประเมินราคา",
+   "main": "pra↓.mɤːn→.raː→.kʰaː→",
+   "pr": "pra↓.mɤːn→.raː→.kʰaː→",
+   "id": 190,
+   "wav_main": "0190_main.wav",
+   "wav_pr": "0190_main.wav"
+  },
+  {
+   "set": "control",
+   "word": "คำยกยอ",
+   "main": "kʰam→.jok↑.jɔː→",
+   "pr": "kʰam→.jok↑.jɔː→",
+   "id": 191,
+   "wav_main": "0191_main.wav",
+   "wav_pr": "0191_main.wav"
+  },
+  {
+   "set": "control",
+   "word": "เลณะ",
+   "main": "leː→.naʔ↓",
+   "pr": "leː→.naʔ↓",
+   "id": 192,
+   "wav_main": "0192_main.wav",
+   "wav_pr": "0192_main.wav"
+  },
+  {
+   "set": "control",
+   "word": "สำหรวด",
+   "main": "sam↗.ruat↓",
+   "pr": "sam↗.ruat↓",
+   "id": 193,
+   "wav_main": "0193_main.wav",
+   "wav_pr": "0193_main.wav"
+  },
+  {
+   "set": "control",
+   "word": "ขาตะไกร",
+   "main": "kʰaː↗.ta↓.kraj→",
+   "pr": "kʰaː↗.ta↓.kraj→",
+   "id": 194,
+   "wav_main": "0194_main.wav",
+   "wav_pr": "0194_main.wav"
+  },
+  {
+   "set": "control",
+   "word": "ฟังเพลง",
+   "main": "faŋ→.pʰleːŋ→",
+   "pr": "faŋ→.pʰleːŋ→",
+   "id": 195,
+   "wav_main": "0195_main.wav",
+   "wav_pr": "0195_main.wav"
+  },
+  {
+   "set": "control",
+   "word": "เหนียวหมา",
+   "main": "niaw↗.maː↗",
+   "pr": "niaw↗.maː↗",
+   "id": 196,
+   "wav_main": "0196_main.wav",
+   "wav_pr": "0196_main.wav"
+  },
+  {
+   "set": "control",
+   "word": "ชายป่า",
+   "main": "ʨʰaːj→.paː↓",
+   "pr": "ʨʰaːj→.paː↓",
+   "id": 197,
+   "wav_main": "0197_main.wav",
+   "wav_pr": "0197_main.wav"
+  },
+  {
+   "set": "control",
+   "word": "บัดเดี๋ยว",
+   "main": "bat↓.diaw↗",
+   "pr": "bat↓.diaw↗",
+   "id": 198,
+   "wav_main": "0198_main.wav",
+   "wav_pr": "0198_main.wav"
+  },
+  {
+   "set": "control",
+   "word": "ไปป์",
+   "main": "paj→",
+   "pr": "paj→",
+   "id": 199,
+   "wav_main": "0199_main.wav",
+   "wav_pr": "0199_main.wav"
+  },
+  {
+   "set": "control",
+   "word": "ไดนาไมต์",
+   "main": "daj→.naː→.maj→",
+   "pr": "daj→.naː→.maj→",
+   "id": 200,
+   "wav_main": "0200_main.wav",
+   "wav_pr": "0200_main.wav"
+  },
+  {
+   "set": "control",
+   "word": "แทรมโปลีน",
+   "main": "tʰrɛːm→.poː→.liːn→",
+   "pr": "tʰrɛːm→.poː→.liːn→",
+   "id": 201,
+   "wav_main": "0201_main.wav",
+   "wav_pr": "0201_main.wav"
+  },
+  {
+   "set": "control",
+   "word": "ขี้เป็ด",
+   "main": "kʰiː↘.pet↓",
+   "pr": "kʰiː↘.pet↓",
+   "id": 202,
+   "wav_main": "0202_main.wav",
+   "wav_pr": "0202_main.wav"
+  },
+  {
+   "set": "control",
+   "word": "แข็งเมือง",
+   "main": "kʰɛŋ↗.mɯaŋ→",
+   "pr": "kʰɛŋ↗.mɯaŋ→",
+   "id": 203,
+   "wav_main": "0203_main.wav",
+   "wav_pr": "0203_main.wav"
+  },
+  {
+   "set": "control",
+   "word": "แปรผกผัน",
+   "main": "prɛː→.pʰok↓.pʰan↗",
+   "pr": "prɛː→.pʰok↓.pʰan↗",
+   "id": 204,
+   "wav_main": "0204_main.wav",
+   "wav_pr": "0204_main.wav"
+  },
+  {
+   "set": "control",
+   "word": "ศีลจุ่ม",
+   "main": "siːn↗.ʨum↓",
+   "pr": "siːn↗.ʨum↓",
+   "id": 205,
+   "wav_main": "0205_main.wav",
+   "wav_pr": "0205_main.wav"
+  },
+  {
+   "set": "control",
+   "word": "ก้อนอิฐ",
+   "main": "kɔːn↘.ʔit↓",
+   "pr": "kɔːn↘.ʔit↓",
+   "id": 206,
+   "wav_main": "0206_main.wav",
+   "wav_pr": "0206_main.wav"
+  },
+  {
+   "set": "control",
+   "word": "บวน",
+   "main": "buan→",
+   "pr": "buan→",
+   "id": 207,
+   "wav_main": "0207_main.wav",
+   "wav_pr": "0207_main.wav"
+  },
+  {
+   "set": "control",
+   "word": "กุนที",
+   "main": "kun→.tʰiː→",
+   "pr": "kun→.tʰiː→",
+   "id": 208,
+   "wav_main": "0208_main.wav",
+   "wav_pr": "0208_main.wav"
+  },
+  {
+   "set": "control",
+   "word": "เวิลด์",
+   "main": "wɤːn→",
+   "pr": "wɤːn→",
+   "id": 209,
+   "wav_main": "0209_main.wav",
+   "wav_pr": "0209_main.wav"
+  },
+  {
+   "set": "control",
+   "word": "ซั่นโถว",
+   "main": "san↘.tʰoːw↗",
+   "pr": "san↘.tʰoːw↗",
+   "id": 210,
+   "wav_main": "0210_main.wav",
+   "wav_pr": "0210_main.wav"
+  },
+  {
+   "set": "control",
+   "word": "พิธีศพ",
+   "main": "pʰiʔ↓.tʰiː→.sop↓",
+   "pr": "pʰiʔ↓.tʰiː→.sop↓",
+   "id": 211,
+   "wav_main": "0211_main.wav",
+   "wav_pr": "0211_main.wav"
+  },
+  {
+   "set": "control",
+   "word": "สั่งลา",
+   "main": "saŋ↓.laː→",
+   "pr": "saŋ↓.laː→",
+   "id": 212,
+   "wav_main": "0212_main.wav",
+   "wav_pr": "0212_main.wav"
+  },
+  {
+   "set": "control",
+   "word": "ดีมาก",
+   "main": "diː→.maːk↘",
+   "pr": "diː→.maːk↘",
+   "id": 213,
+   "wav_main": "0213_main.wav",
+   "wav_pr": "0213_main.wav"
+  },
+  {
+   "set": "control",
+   "word": "เพื่อนสนิท",
+   "main": "pʰɯan↘.sa↓.nit↑",
+   "pr": "pʰɯan↘.sa↓.nit↑",
+   "id": 214,
+   "wav_main": "0214_main.wav",
+   "wav_pr": "0214_main.wav"
+  },
+  {
+   "set": "control",
+   "word": "ชมชอบ",
+   "main": "ʨʰom→.ʨʰɔːp↘",
+   "pr": "ʨʰom→.ʨʰɔːp↘",
+   "id": 215,
+   "wav_main": "0215_main.wav",
+   "wav_pr": "0215_main.wav"
+  },
+  {
+   "set": "control",
+   "word": "เออะ",
+   "main": "ʔɤʔ↓",
+   "pr": "ʔɤʔ↓",
+   "id": 216,
+   "wav_main": "0216_main.wav",
+   "wav_pr": "0216_main.wav"
+  },
+  {
+   "set": "control",
+   "word": "มหานสะ",
+   "main": "ma↑.haː↗.na↑.saʔ↓",
+   "pr": "ma↑.haː↗.na↑.saʔ↓",
+   "id": 217,
+   "wav_main": "0217_main.wav",
+   "wav_pr": "0217_main.wav"
+  },
+  {
+   "set": "control",
+   "word": "เสาวรภย์",
+   "main": "sa↓.waː→.rop↑",
+   "pr": "sa↓.waː→.rop↑",
+   "id": 218,
+   "wav_main": "0218_main.wav",
+   "wav_pr": "0218_main.wav"
+  },
+  {
+   "set": "control",
+   "word": "ยาขี้ผึ้ง",
+   "main": "jaː→.kʰiː↘.pʰɯŋ↘",
+   "pr": "jaː→.kʰiː↘.pʰɯŋ↘",
+   "id": 219,
+   "wav_main": "0219_main.wav",
+   "wav_pr": "0219_main.wav"
+  },
+  {
+   "set": "control",
+   "word": "ทั้ง",
+   "main": "tʰaŋ↑",
+   "pr": "tʰaŋ↑",
+   "id": 220,
+   "wav_main": "0220_main.wav",
+   "wav_pr": "0220_main.wav"
+  },
+  {
+   "set": "control",
+   "word": "ทวาราวดี",
+   "main": "tʰa↑.waː→.raː→.wa↑.diː→",
+   "pr": "tʰa↑.waː→.raː→.wa↑.diː→",
+   "id": 221,
+   "wav_main": "0221_main.wav",
+   "wav_pr": "0221_main.wav"
+  },
+  {
+   "set": "control",
+   "word": "จวบจนกระทั่ง",
+   "main": "ʨuap↓.ʨon→.kra↓.tʰaŋ↘",
+   "pr": "ʨuap↓.ʨon→.kra↓.tʰaŋ↘",
+   "id": 222,
+   "wav_main": "0222_main.wav",
+   "wav_pr": "0222_main.wav"
+  },
+  {
+   "set": "control",
+   "word": "แต่งคำ",
+   "main": "tɛːŋ↓.kʰam→",
+   "pr": "tɛːŋ↓.kʰam→",
+   "id": 223,
+   "wav_main": "0223_main.wav",
+   "wav_pr": "0223_main.wav"
+  },
+  {
+   "set": "control",
+   "word": "เอาทารย์",
+   "main": "ʔaw→.tʰaːn→",
+   "pr": "ʔaw→.tʰaːn→",
+   "id": 224,
+   "wav_main": "0224_main.wav",
+   "wav_pr": "0224_main.wav"
+  },
+  {
+   "set": "control",
+   "word": "ไอเอสเอ",
+   "main": "ʔaj→.ʔeːs→.ʔeː→",
+   "pr": "ʔaj→.ʔeːs→.ʔeː→",
+   "id": 225,
+   "wav_main": "0225_main.wav",
+   "wav_pr": "0225_main.wav"
+  },
+  {
+   "set": "control",
+   "word": "ทาร",
+   "main": "tʰaːn→",
+   "pr": "tʰaːn→",
+   "id": 226,
+   "wav_main": "0226_main.wav",
+   "wav_pr": "0226_main.wav"
+  },
+  {
+   "set": "control",
+   "word": "ลูกอ่อน",
+   "main": "luːk↘.ʔɔːn↓",
+   "pr": "luːk↘.ʔɔːn↓",
+   "id": 227,
+   "wav_main": "0227_main.wav",
+   "wav_pr": "0227_main.wav"
+  },
+  {
+   "set": "control",
+   "word": "ฆาน",
+   "main": "kʰaːn→",
+   "pr": "kʰaːn→",
+   "id": 228,
+   "wav_main": "0228_main.wav",
+   "wav_pr": "0228_main.wav"
+  },
+  {
+   "set": "control",
+   "word": "เรียงหน้า",
+   "main": "riaŋ→.naː↘",
+   "pr": "riaŋ→.naː↘",
+   "id": 229,
+   "wav_main": "0229_main.wav",
+   "wav_pr": "0229_main.wav"
+  },
+  {
+   "set": "control",
+   "word": "โพแดง",
+   "main": "pʰoː→.dɛːŋ→",
+   "pr": "pʰoː→.dɛːŋ→",
+   "id": 230,
+   "wav_main": "0230_main.wav",
+   "wav_pr": "0230_main.wav"
+  },
+  {
+   "set": "control",
+   "word": "ขึ้นสมุด",
+   "main": "kʰɯn↘.sa↓.mut↓",
+   "pr": "kʰɯn↘.sa↓.mut↓",
+   "id": 231,
+   "wav_main": "0231_main.wav",
+   "wav_pr": "0231_main.wav"
+  },
+  {
+   "set": "control",
+   "word": "เสื้อยกทรง",
+   "main": "sɯa↘.jok↑.soŋ→",
+   "pr": "sɯa↘.jok↑.soŋ→",
+   "id": 232,
+   "wav_main": "0232_main.wav",
+   "wav_pr": "0232_main.wav"
+  },
+  {
+   "set": "control",
+   "word": "ขายหู",
+   "main": "kʰaːj↗.huː↗",
+   "pr": "kʰaːj↗.huː↗",
+   "id": 233,
+   "wav_main": "0233_main.wav",
+   "wav_pr": "0233_main.wav"
+  },
+  {
+   "set": "control",
+   "word": "โอรสาราม",
+   "main": "ʔoː→.ra↑.saː→.raːm→",
+   "pr": "ʔoː→.ra↑.saː→.raːm→",
+   "id": 234,
+   "wav_main": "0234_main.wav",
+   "wav_pr": "0234_main.wav"
+  },
+  {
+   "set": "control",
+   "word": "นัจ",
+   "main": "nat↑",
+   "pr": "nat↑",
+   "id": 235,
+   "wav_main": "0235_main.wav",
+   "wav_pr": "0235_main.wav"
+  },
+  {
+   "set": "control",
+   "word": "ฮิซบอลเลาะห์",
+   "main": "hit↑.bɔn→.lɔʔ↑",
+   "pr": "hit↑.bɔn→.lɔʔ↑",
+   "id": 236,
+   "wav_main": "0236_main.wav",
+   "wav_pr": "0236_main.wav"
+  },
+  {
+   "set": "control",
+   "word": "สุด",
+   "main": "sut↓",
+   "pr": "sut↓",
+   "id": 237,
+   "wav_main": "0237_main.wav",
+   "wav_pr": "0237_main.wav"
+  },
+  {
+   "set": "control",
+   "word": "เปราะแประ",
+   "main": "prɔʔ↓.prɔʔ↓",
+   "pr": "prɔʔ↓.prɔʔ↓",
+   "id": 238,
+   "wav_main": "0238_main.wav",
+   "wav_pr": "0238_main.wav"
+  },
+  {
+   "set": "control",
+   "word": "สิ้นเปลือง",
+   "main": "sin↘.plɯaŋ→",
+   "pr": "sin↘.plɯaŋ→",
+   "id": 239,
+   "wav_main": "0239_main.wav",
+   "wav_pr": "0239_main.wav"
+  },
+  {
+   "set": "control",
+   "word": "นาฬิกาทราย",
+   "main": "naː→.li↑.kaː→.saːj→",
+   "pr": "naː→.li↑.kaː→.saːj→",
+   "id": 240,
+   "wav_main": "0240_main.wav",
+   "wav_pr": "0240_main.wav"
+  },
+  {
+   "set": "control",
+   "word": "มัสหมั่น",
+   "main": "mat↑.sa↓.man↘",
+   "pr": "mat↑.sa↓.man↘",
+   "id": 241,
+   "wav_main": "0241_main.wav",
+   "wav_pr": "0241_main.wav"
+  },
+  {
+   "set": "control",
+   "word": "อปาจีน",
+   "main": "ʔa↓.paː→.ʨiːn→",
+   "pr": "ʔa↓.paː→.ʨiːn→",
+   "id": 242,
+   "wav_main": "0242_main.wav",
+   "wav_pr": "0242_main.wav"
+  },
+  {
+   "set": "control",
+   "word": "แปรผัน",
+   "main": "prɛː→.pʰan↗",
+   "pr": "prɛː→.pʰan↗",
+   "id": 243,
+   "wav_main": "0243_main.wav",
+   "wav_pr": "0243_main.wav"
+  },
+  {
+   "set": "control",
+   "word": "หักมุก",
+   "main": "hak↓.muk↓",
+   "pr": "hak↓.muk↓",
+   "id": 244,
+   "wav_main": "0244_main.wav",
+   "wav_pr": "0244_main.wav"
+  },
+  {
+   "set": "control",
+   "word": "ละลัด",
+   "main": "la↑.lat↑",
+   "pr": "la↑.lat↑",
+   "id": 245,
+   "wav_main": "0245_main.wav",
+   "wav_pr": "0245_main.wav"
+  },
+  {
+   "set": "control",
+   "word": "ภววิสัย",
+   "main": "pʰa↑.wa↑.wi↑.saj↗",
+   "pr": "pʰa↑.wa↑.wi↑.saj↗",
+   "id": 246,
+   "wav_main": "0246_main.wav",
+   "wav_pr": "0246_main.wav"
+  },
+  {
+   "set": "control",
+   "word": "ปักษเภท",
+   "main": "pak↓.sa↓.pʰeːt↘",
+   "pr": "pak↓.sa↓.pʰeːt↘",
+   "id": 247,
+   "wav_main": "0247_main.wav",
+   "wav_pr": "0247_main.wav"
+  },
+  {
+   "set": "control",
+   "word": "ไม้กอล์ฟ",
+   "main": "maːj↑.kɔːp↑",
+   "pr": "maːj↑.kɔːp↑",
+   "id": 248,
+   "wav_main": "0248_main.wav",
+   "wav_pr": "0248_main.wav"
+  },
+  {
+   "set": "control",
+   "word": "ทรามเชย",
+   "main": "saːm→.ʨʰɤːj→",
+   "pr": "saːm→.ʨʰɤːj→",
+   "id": 249,
+   "wav_main": "0249_main.wav",
+   "wav_pr": "0249_main.wav"
+  },
+  {
+   "set": "control",
+   "word": "ข้าวผัด",
+   "main": "kʰaːw↘.pʰat↓",
+   "pr": "kʰaːw↘.pʰat↓",
+   "id": 250,
+   "wav_main": "0250_main.wav",
+   "wav_pr": "0250_main.wav"
+  },
+  {
+   "set": "control",
+   "word": "กำเริบ",
+   "main": "kam→.rɤːp↘",
+   "pr": "kam→.rɤːp↘",
+   "id": 251,
+   "wav_main": "0251_main.wav",
+   "wav_pr": "0251_main.wav"
+  },
+  {
+   "set": "control",
+   "word": "ปร๋อ",
+   "main": "prɔː↗",
+   "pr": "prɔː↗",
+   "id": 252,
+   "wav_main": "0252_main.wav",
+   "wav_pr": "0252_main.wav"
+  },
+  {
+   "set": "control",
+   "word": "ความเป็นชาย",
+   "main": "kʰwaːm→.pen→.ʨʰaːj→",
+   "pr": "kʰwaːm→.pen→.ʨʰaːj→",
+   "id": 253,
+   "wav_main": "0253_main.wav",
+   "wav_pr": "0253_main.wav"
+  },
+  {
+   "set": "control",
+   "word": "เฮือก",
+   "main": "hɯak↓",
+   "pr": "hɯak↓",
+   "id": 254,
+   "wav_main": "0254_main.wav",
+   "wav_pr": "0254_main.wav"
+  },
+  {
+   "set": "control",
+   "word": "ภัตร",
+   "main": "pʰat↑",
+   "pr": "pʰat↑",
+   "id": 255,
+   "wav_main": "0255_main.wav",
+   "wav_pr": "0255_main.wav"
+  },
+  {
+   "set": "control",
+   "word": "เทอร์โบ",
+   "main": "tʰɤː→.boː→",
+   "pr": "tʰɤː→.boː→",
+   "id": 256,
+   "wav_main": "0256_main.wav",
+   "wav_pr": "0256_main.wav"
+  },
+  {
+   "set": "control",
+   "word": "อ้ายโกร่ง",
+   "main": "ʔaːj↘.kroːŋ↘",
+   "pr": "ʔaːj↘.kroːŋ↘",
+   "id": 257,
+   "wav_main": "0257_main.wav",
+   "wav_pr": "0257_main.wav"
+  },
+  {
+   "set": "control",
+   "word": "รักษาสุขภาพ",
+   "main": "rak↑.saː↗.suk↓.kʰa↓.pʰaːp↘",
+   "pr": "rak↑.saː↗.suk↓.kʰa↓.pʰaːp↘",
+   "id": 258,
+   "wav_main": "0258_main.wav",
+   "wav_pr": "0258_main.wav"
+  },
+  {
+   "set": "control",
+   "word": "ทู",
+   "main": "tʰuː→",
+   "pr": "tʰuː→",
+   "id": 259,
+   "wav_main": "0259_main.wav",
+   "wav_pr": "0259_main.wav"
+  },
+  {
+   "set": "control",
+   "word": "หริ",
+   "main": "riʔ↓",
+   "pr": "riʔ↓",
+   "id": 260,
+   "wav_main": "0260_main.wav",
+   "wav_pr": "0260_main.wav"
+  },
+  {
+   "set": "control",
+   "word": "พารากอน",
+   "main": "pʰaː→.raː→.kɔːn→",
+   "pr": "pʰaː→.raː→.kɔːn→",
+   "id": 261,
+   "wav_main": "0261_main.wav",
+   "wav_pr": "0261_main.wav"
+  },
+  {
+   "set": "control",
+   "word": "โปร่งลม",
+   "main": "proŋ↓.lom→",
+   "pr": "proŋ↓.lom→",
+   "id": 262,
+   "wav_main": "0262_main.wav",
+   "wav_pr": "0262_main.wav"
+  },
+  {
+   "set": "control",
+   "word": "คราวก่อน",
+   "main": "kʰraːw→.kɔːn↓",
+   "pr": "kʰraːw→.kɔːn↓",
+   "id": 263,
+   "wav_main": "0263_main.wav",
+   "wav_pr": "0263_main.wav"
+  },
+  {
+   "set": "control",
+   "word": "ชมไช",
+   "main": "ʨʰom→.ʨʰaj→",
+   "pr": "ʨʰom→.ʨʰaj→",
+   "id": 264,
+   "wav_main": "0264_main.wav",
+   "wav_pr": "0264_main.wav"
+  },
+  {
+   "set": "control",
+   "word": "เจ้าท่า",
+   "main": "ʨaw↘.tʰaː↘",
+   "pr": "ʨaw↘.tʰaː↘",
+   "id": 265,
+   "wav_main": "0265_main.wav",
+   "wav_pr": "0265_main.wav"
+  },
+  {
+   "set": "control",
+   "word": "สัมผัปลาป",
+   "main": "sam↗.pʰap↓.laːp↓",
+   "pr": "sam↗.pʰap↓.laːp↓",
+   "id": 266,
+   "wav_main": "0266_main.wav",
+   "wav_pr": "0266_main.wav"
+  },
+  {
+   "set": "control",
+   "word": "ติดจัย",
+   "main": "tit↓.ʨaj→",
+   "pr": "tit↓.ʨaj→",
+   "id": 267,
+   "wav_main": "0267_main.wav",
+   "wav_pr": "0267_main.wav"
+  },
+  {
+   "set": "control",
+   "word": "ทางลัด",
+   "main": "tʰaːŋ→.lat↑",
+   "pr": "tʰaːŋ→.lat↑",
+   "id": 268,
+   "wav_main": "0268_main.wav",
+   "wav_pr": "0268_main.wav"
+  },
+  {
+   "set": "control",
+   "word": "ระหง",
+   "main": "ra↑.hoŋ↗",
+   "pr": "ra↑.hoŋ↗",
+   "id": 269,
+   "wav_main": "0269_main.wav",
+   "wav_pr": "0269_main.wav"
+  },
+  {
+   "set": "control",
+   "word": "ตรึงตรา",
+   "main": "trɯŋ→.traː→",
+   "pr": "trɯŋ→.traː→",
+   "id": 270,
+   "wav_main": "0270_main.wav",
+   "wav_pr": "0270_main.wav"
+  },
+  {
+   "set": "control",
+   "word": "อึ๊ก",
+   "main": "ʔɯk↑",
+   "pr": "ʔɯk↑",
+   "id": 271,
+   "wav_main": "0271_main.wav",
+   "wav_pr": "0271_main.wav"
+  },
+  {
+   "set": "control",
+   "word": "สายยงยศ",
+   "main": "saːj↗.joŋ→.jot↑",
+   "pr": "saːj↗.joŋ→.jot↑",
+   "id": 272,
+   "wav_main": "0272_main.wav",
+   "wav_pr": "0272_main.wav"
+  },
+  {
+   "set": "control",
+   "word": "การเผย",
+   "main": "kaːn→.pʰɤːj↗",
+   "pr": "kaːn→.pʰɤːj↗",
+   "id": 273,
+   "wav_main": "0273_main.wav",
+   "wav_pr": "0273_main.wav"
+  },
+  {
+   "set": "control",
+   "word": "บ่า",
+   "main": "baː↓",
+   "pr": "baː↓",
+   "id": 274,
+   "wav_main": "0274_main.wav",
+   "wav_pr": "0274_main.wav"
+  },
+  {
+   "set": "control",
+   "word": "ความชื่นบาน",
+   "main": "kʰwaːm→.ʨʰɯːn↘.baːn→",
+   "pr": "kʰwaːm→.ʨʰɯːn↘.baːn→",
+   "id": 275,
+   "wav_main": "0275_main.wav",
+   "wav_pr": "0275_main.wav"
+  },
+  {
+   "set": "control",
+   "word": "ทำการบ้าน",
+   "main": "tʰam→.kaːn→.baːn↘",
+   "pr": "tʰam→.kaːn→.baːn↘",
+   "id": 276,
+   "wav_main": "0276_main.wav",
+   "wav_pr": "0276_main.wav"
+  },
+  {
+   "set": "control",
+   "word": "เสตุ",
+   "main": "seː↗.tuʔ↓",
+   "pr": "seː↗.tuʔ↓",
+   "id": 277,
+   "wav_main": "0277_main.wav",
+   "wav_pr": "0277_main.wav"
+  },
+  {
+   "set": "control",
+   "word": "เอ็กโซเซ่ต์",
+   "main": "ʔek↓.soː→.seːt↘",
+   "pr": "ʔek↓.soː→.seːt↘",
+   "id": 278,
+   "wav_main": "0278_main.wav",
+   "wav_pr": "0278_main.wav"
+  },
+  {
+   "set": "control",
+   "word": "วัยเด็ก",
+   "main": "waj→.dek↓",
+   "pr": "waj→.dek↓",
+   "id": 279,
+   "wav_main": "0279_main.wav",
+   "wav_pr": "0279_main.wav"
+  },
+  {
+   "set": "control",
+   "word": "บุตรี",
+   "main": "but↓.triː→",
+   "pr": "but↓.triː→",
+   "id": 280,
+   "wav_main": "0280_main.wav",
+   "wav_pr": "0280_main.wav"
+  },
+  {
+   "set": "control",
+   "word": "มัลก",
+   "main": "man→.lok↑",
+   "pr": "man→.lok↑",
+   "id": 281,
+   "wav_main": "0281_main.wav",
+   "wav_pr": "0281_main.wav"
+  },
+  {
+   "set": "control",
+   "word": "ระงับอารมณ์",
+   "main": "ra↑.ŋap↑.ʔaː→.rom→",
+   "pr": "ra↑.ŋap↑.ʔaː→.rom→",
+   "id": 282,
+   "wav_main": "0282_main.wav",
+   "wav_pr": "0282_main.wav"
+  },
+  {
+   "set": "control",
+   "word": "เช้ง",
+   "main": "ʨʰeːŋ↑",
+   "pr": "ʨʰeːŋ↑",
+   "id": 283,
+   "wav_main": "0283_main.wav",
+   "wav_pr": "0283_main.wav"
+  },
+  {
+   "set": "control",
+   "word": "รำโทน",
+   "main": "ram→.tʰoːn→",
+   "pr": "ram→.tʰoːn→",
+   "id": 284,
+   "wav_main": "0284_main.wav",
+   "wav_pr": "0284_main.wav"
+  },
+  {
+   "set": "control",
+   "word": "แสดงความจำนง",
+   "main": "sa↓.dɛːŋ→.kʰwaːm→.ʨam→.noŋ→",
+   "pr": "sa↓.dɛːŋ→.kʰwaːm→.ʨam→.noŋ→",
+   "id": 285,
+   "wav_main": "0285_main.wav",
+   "wav_pr": "0285_main.wav"
+  },
+  {
+   "set": "control",
+   "word": "ฮิสตามีน",
+   "main": "hit↑.sa↓.taː→.miːn→",
+   "pr": "hit↑.sa↓.taː→.miːn→",
+   "id": 286,
+   "wav_main": "0286_main.wav",
+   "wav_pr": "0286_main.wav"
+  },
+  {
+   "set": "control",
+   "word": "แชะ",
+   "main": "ʨʰɛʔ↑",
+   "pr": "ʨʰɛʔ↑",
+   "id": 287,
+   "wav_main": "0287_main.wav",
+   "wav_pr": "0287_main.wav"
+  },
+  {
+   "set": "control",
+   "word": "มาจาก",
+   "main": "maː→.ʨaːk↓",
+   "pr": "maː→.ʨaːk↓",
+   "id": 288,
+   "wav_main": "0288_main.wav",
+   "wav_pr": "0288_main.wav"
+  },
+  {
+   "set": "control",
+   "word": "หัสนาฏกรรม",
+   "main": "hat↓.sa↓.naːt↓.ta↓.kam→",
+   "pr": "hat↓.sa↓.naːt↓.ta↓.kam→",
+   "id": 289,
+   "wav_main": "0289_main.wav",
+   "wav_pr": "0289_main.wav"
+  },
+  {
+   "set": "control",
+   "word": "คนกำกับบท",
+   "main": "kʰon→.kam→.kap↓.bot↓",
+   "pr": "kʰon→.kam→.kap↓.bot↓",
+   "id": 290,
+   "wav_main": "0290_main.wav",
+   "wav_pr": "0290_main.wav"
+  },
+  {
+   "set": "control",
+   "word": "คุณพ่อ",
+   "main": "kʰun→.pʰɔː↘",
+   "pr": "kʰun→.pʰɔː↘",
+   "id": 291,
+   "wav_main": "0291_main.wav",
+   "wav_pr": "0291_main.wav"
+  },
+  {
+   "set": "control",
+   "word": "ผู้ใช้บริการ",
+   "main": "pʰuː↘.ʨʰaj↑.bɔː→.ri↑.kaːn→",
+   "pr": "pʰuː↘.ʨʰaj↑.bɔː→.ri↑.kaːn→",
+   "id": 292,
+   "wav_main": "0292_main.wav",
+   "wav_pr": "0292_main.wav"
+  },
+  {
+   "set": "control",
+   "word": "อังคารสี่บท",
+   "main": "ʔaŋ→.kʰaːn→.siː↓.bot↓",
+   "pr": "ʔaŋ→.kʰaːn→.siː↓.bot↓",
+   "id": 293,
+   "wav_main": "0293_main.wav",
+   "wav_pr": "0293_main.wav"
+  },
+  {
+   "set": "control",
+   "word": "ปลวก",
+   "main": "pluak↓",
+   "pr": "pluak↓",
+   "id": 294,
+   "wav_main": "0294_main.wav",
+   "wav_pr": "0294_main.wav"
+  },
+  {
+   "set": "control",
+   "word": "คำแปล",
+   "main": "kʰam→.plɛː→",
+   "pr": "kʰam→.plɛː→",
+   "id": 295,
+   "wav_main": "0295_main.wav",
+   "wav_pr": "0295_main.wav"
+  },
+  {
+   "set": "control",
+   "word": "ข้อผูกพัน",
+   "main": "kʰɔː↘.pʰuːk↓.pʰan→",
+   "pr": "kʰɔː↘.pʰuːk↓.pʰan→",
+   "id": 296,
+   "wav_main": "0296_main.wav",
+   "wav_pr": "0296_main.wav"
+  },
+  {
+   "set": "control",
+   "word": "ขี้กุ่ง",
+   "main": "kʰiː↘.kuŋ↓",
+   "pr": "kʰiː↘.kuŋ↓",
+   "id": 297,
+   "wav_main": "0297_main.wav",
+   "wav_pr": "0297_main.wav"
+  },
+  {
+   "set": "control",
+   "word": "กลาบาต",
+   "main": "ka↓.laː→.baːt↓",
+   "pr": "ka↓.laː→.baːt↓",
+   "id": 298,
+   "wav_main": "0298_main.wav",
+   "wav_pr": "0298_main.wav"
+  },
+  {
+   "set": "control",
+   "word": "บัณฑูร",
+   "main": "ban→.tʰuːn→",
+   "pr": "ban→.tʰuːn→",
+   "id": 299,
+   "wav_main": "0299_main.wav",
+   "wav_pr": "0299_main.wav"
+  },
+  {
+   "set": "control",
+   "word": "มองในแง่ร้าย",
+   "main": "mɔːŋ→.naj→.ŋɛː↘.raːj↑",
+   "pr": "mɔːŋ→.naj→.ŋɛː↘.raːj↑",
+   "id": 300,
+   "wav_main": "0300_main.wav",
+   "wav_pr": "0300_main.wav"
+  },
+  {
+   "set": "control",
+   "word": "อำ",
+   "main": "ʔam→",
+   "pr": "ʔam→",
+   "id": 301,
+   "wav_main": "0301_main.wav",
+   "wav_pr": "0301_main.wav"
+  },
+  {
+   "set": "control",
+   "word": "แคลง",
+   "main": "kʰlɛːŋ→",
+   "pr": "kʰlɛːŋ→",
+   "id": 302,
+   "wav_main": "0302_main.wav",
+   "wav_pr": "0302_main.wav"
+  },
+  {
+   "set": "control",
+   "word": "แห้ง",
+   "main": "hɛːŋ↘",
+   "pr": "hɛːŋ↘",
+   "id": 303,
+   "wav_main": "0303_main.wav",
+   "wav_pr": "0303_main.wav"
+  },
+  {
+   "set": "control",
+   "word": "โดยใช่เหตุ",
+   "main": "doːj→.ʨʰaj↘.heːt↓",
+   "pr": "doːj→.ʨʰaj↘.heːt↓",
+   "id": 304,
+   "wav_main": "0304_main.wav",
+   "wav_pr": "0304_main.wav"
+  },
+  {
+   "set": "control",
+   "word": "หมามุ่ย",
+   "main": "maː↗.muj↘",
+   "pr": "maː↗.muj↘",
+   "id": 305,
+   "wav_main": "0305_main.wav",
+   "wav_pr": "0305_main.wav"
+  },
+  {
+   "set": "control",
+   "word": "พอแล้ว",
+   "main": "pʰɔː→.lɛːw↑",
+   "pr": "pʰɔː→.lɛːw↑",
+   "id": 306,
+   "wav_main": "0306_main.wav",
+   "wav_pr": "0306_main.wav"
+  },
+  {
+   "set": "control",
+   "word": "ไลบีเรีย",
+   "main": "laj→.biː→.ria→",
+   "pr": "laj→.biː→.ria→",
+   "id": 307,
+   "wav_main": "0307_main.wav",
+   "wav_pr": "0307_main.wav"
+  },
+  {
+   "set": "control",
+   "word": "วิถีชีวิต",
+   "main": "wi↑.tʰiː↗.ʨʰiː→.wit↑",
+   "pr": "wi↑.tʰiː↗.ʨʰiː→.wit↑",
+   "id": 308,
+   "wav_main": "0308_main.wav",
+   "wav_pr": "0308_main.wav"
+  },
+  {
+   "set": "control",
+   "word": "ไถ",
+   "main": "tʰaj↗",
+   "pr": "tʰaj↗",
+   "id": 309,
+   "wav_main": "0309_main.wav",
+   "wav_pr": "0309_main.wav"
+  },
+  {
+   "set": "control",
+   "word": "รางปืน",
+   "main": "raːŋ→.pɯːn→",
+   "pr": "raːŋ→.pɯːn→",
+   "id": 310,
+   "wav_main": "0310_main.wav",
+   "wav_pr": "0310_main.wav"
+  },
+  {
+   "set": "control",
+   "word": "กะตอก",
+   "main": "ka↓.tɔːk↓",
+   "pr": "ka↓.tɔːk↓",
+   "id": 311,
+   "wav_main": "0311_main.wav",
+   "wav_pr": "0311_main.wav"
+  },
+  {
+   "set": "control",
+   "word": "อคเนสัน",
+   "main": "ʔak↓.kʰa↑.neːt↑.san→",
+   "pr": "ʔak↓.kʰa↑.neːt↑.san→",
+   "id": 312,
+   "wav_main": "0312_main.wav",
+   "wav_pr": "0312_main.wav"
+  },
+  {
+   "set": "control",
+   "word": "ร่ายรำ",
+   "main": "raːj↘.ram→",
+   "pr": "raːj↘.ram→",
+   "id": 313,
+   "wav_main": "0313_main.wav",
+   "wav_pr": "0313_main.wav"
+  },
+  {
+   "set": "control",
+   "word": "ตึกดิน",
+   "main": "tɯk↓.din→",
+   "pr": "tɯk↓.din→",
+   "id": 314,
+   "wav_main": "0314_main.wav",
+   "wav_pr": "0314_main.wav"
+  },
+  {
+   "set": "control",
+   "word": "โฟร์",
+   "main": "foː→",
+   "pr": "foː→",
+   "id": 315,
+   "wav_main": "0315_main.wav",
+   "wav_pr": "0315_main.wav"
+  },
+  {
+   "set": "control",
+   "word": "ชฎาธาร",
+   "main": "ʨʰa↑.daː→.tʰaːn→",
+   "pr": "ʨʰa↑.daː→.tʰaːn→",
+   "id": 316,
+   "wav_main": "0316_main.wav",
+   "wav_pr": "0316_main.wav"
+  },
+  {
+   "set": "control",
+   "word": "อโนดาต",
+   "main": "ʔa↓.noː→.daːt↓",
+   "pr": "ʔa↓.noː→.daːt↓",
+   "id": 317,
+   "wav_main": "0317_main.wav",
+   "wav_pr": "0317_main.wav"
+  },
+  {
+   "set": "control",
+   "word": "ขาดอายุ",
+   "main": "kʰaːt↓.ʔaː→.juʔ↑",
+   "pr": "kʰaːt↓.ʔaː→.juʔ↑",
+   "id": 318,
+   "wav_main": "0318_main.wav",
+   "wav_pr": "0318_main.wav"
+  },
+  {
+   "set": "control",
+   "word": "บทสรุป",
+   "main": "bot↓.sa↓.rup↓",
+   "pr": "bot↓.sa↓.rup↓",
+   "id": 319,
+   "wav_main": "0319_main.wav",
+   "wav_pr": "0319_main.wav"
+  },
+  {
+   "set": "control",
+   "word": "น่าขายหน้า",
+   "main": "naː↘.kʰaːj↗.naː↘",
+   "pr": "naː↘.kʰaːj↗.naː↘",
+   "id": 320,
+   "wav_main": "0320_main.wav",
+   "wav_pr": "0320_main.wav"
+  },
+  {
+   "set": "control",
+   "word": "พาดพิงถึง",
+   "main": "pʰaːt↘.pʰiŋ→.tʰɯŋ↗",
+   "pr": "pʰaːt↘.pʰiŋ→.tʰɯŋ↗",
+   "id": 321,
+   "wav_main": "0321_main.wav",
+   "wav_pr": "0321_main.wav"
+  },
+  {
+   "set": "control",
+   "word": "ช่อน",
+   "main": "ʨʰɔːn↘",
+   "pr": "ʨʰɔːn↘",
+   "id": 322,
+   "wav_main": "0322_main.wav",
+   "wav_pr": "0322_main.wav"
+  },
+  {
+   "set": "control",
+   "word": "เป็นลม",
+   "main": "pen→.lom→",
+   "pr": "pen→.lom→",
+   "id": 323,
+   "wav_main": "0323_main.wav",
+   "wav_pr": "0323_main.wav"
+  },
+  {
+   "set": "control",
+   "word": "ปะกำ",
+   "main": "pa↓.kam→",
+   "pr": "pa↓.kam→",
+   "id": 324,
+   "wav_main": "0324_main.wav",
+   "wav_pr": "0324_main.wav"
+  },
+  {
+   "set": "control",
+   "word": "สกรรถ",
+   "main": "sa↓.kan→",
+   "pr": "sa↓.kan→",
+   "id": 325,
+   "wav_main": "0325_main.wav",
+   "wav_pr": "0325_main.wav"
+  },
+  {
+   "set": "control",
+   "word": "ว่อน",
+   "main": "wɔn↘",
+   "pr": "wɔn↘",
+   "id": 326,
+   "wav_main": "0326_main.wav",
+   "wav_pr": "0326_main.wav"
+  },
+  {
+   "set": "control",
+   "word": "ฮิปสเตอร์",
+   "main": "hip↑.sa↓.tɤː→",
+   "pr": "hip↑.sa↓.tɤː→",
+   "id": 327,
+   "wav_main": "0327_main.wav",
+   "wav_pr": "0327_main.wav"
+  },
+  {
+   "set": "control",
+   "word": "ความสิ้นหวัง",
+   "main": "kʰwaːm→.sin↘.waŋ↗",
+   "pr": "kʰwaːm→.sin↘.waŋ↗",
+   "id": 328,
+   "wav_main": "0328_main.wav",
+   "wav_pr": "0328_main.wav"
+  },
+  {
+   "set": "control",
+   "word": "ติ๋ง",
+   "main": "tiŋ↗",
+   "pr": "tiŋ↗",
+   "id": 329,
+   "wav_main": "0329_main.wav",
+   "wav_pr": "0329_main.wav"
+  },
+  {
+   "set": "control",
+   "word": "หฤทย์",
+   "main": "ha↓.rit↓",
+   "pr": "ha↓.rit↓",
+   "id": 330,
+   "wav_main": "0330_main.wav",
+   "wav_pr": "0330_main.wav"
+  },
+  {
+   "set": "control",
+   "word": "สนิทสนม",
+   "main": "sa↓.nit↑.sa↓.nom↗",
+   "pr": "sa↓.nit↑.sa↓.nom↗",
+   "id": 331,
+   "wav_main": "0331_main.wav",
+   "wav_pr": "0331_main.wav"
+  },
+  {
+   "set": "control",
+   "word": "เรือเท้ง",
+   "main": "rɯa→.tʰeːŋ↑",
+   "pr": "rɯa→.tʰeːŋ↑",
+   "id": 332,
+   "wav_main": "0332_main.wav",
+   "wav_pr": "0332_main.wav"
+  },
+  {
+   "set": "control",
+   "word": "พระบท",
+   "main": "pʰra↑.bot↓",
+   "pr": "pʰra↑.bot↓",
+   "id": 333,
+   "wav_main": "0333_main.wav",
+   "wav_pr": "0333_main.wav"
+  },
+  {
+   "set": "control",
+   "word": "ซ้น",
+   "main": "son↑",
+   "pr": "son↑",
+   "id": 334,
+   "wav_main": "0334_main.wav",
+   "wav_pr": "0334_main.wav"
+  },
+  {
+   "set": "control",
+   "word": "วาหนะ",
+   "main": "waː→.ha↓.naʔ↑",
+   "pr": "waː→.ha↓.naʔ↑",
+   "id": 335,
+   "wav_main": "0335_main.wav",
+   "wav_pr": "0335_main.wav"
+  },
+  {
+   "set": "control",
+   "word": "สุณิสา",
+   "main": "su↓.ni↑.saː↗",
+   "pr": "su↓.ni↑.saː↗",
+   "id": 336,
+   "wav_main": "0336_main.wav",
+   "wav_pr": "0336_main.wav"
+  },
+  {
+   "set": "control",
+   "word": "เร่งร่าย",
+   "main": "reŋ↘.raːj↘",
+   "pr": "reŋ↘.raːj↘",
+   "id": 337,
+   "wav_main": "0337_main.wav",
+   "wav_pr": "0337_main.wav"
+  },
+  {
+   "set": "control",
+   "word": "พระมารดา",
+   "main": "pʰra↑.maːn→.daː→",
+   "pr": "pʰra↑.maːn→.daː→",
+   "id": 338,
+   "wav_main": "0338_main.wav",
+   "wav_pr": "0338_main.wav"
+  },
+  {
+   "set": "control",
+   "word": "วิชา",
+   "main": "wi↑.ʨʰaː→",
+   "pr": "wi↑.ʨʰaː→",
+   "id": 339,
+   "wav_main": "0339_main.wav",
+   "wav_pr": "0339_main.wav"
+  },
+  {
+   "set": "control",
+   "word": "สัจนิยม",
+   "main": "sat↓.ni↑.jom→",
+   "pr": "sat↓.ni↑.jom→",
+   "id": 340,
+   "wav_main": "0340_main.wav",
+   "wav_pr": "0340_main.wav"
+  },
+  {
+   "set": "sensitivity",
+   "word": "มูลบท",
+   "main": "muːn→.bot↓",
+   "pr": "muːn↗.bot↑",
+   "id": 341,
+   "wav_main": "0341_main.wav",
+   "wav_pr": "0341_pr.wav"
+  },
+  {
+   "set": "sensitivity",
+   "word": "ตราภูมิ",
+   "main": "traː→.pʰuː→.miʔ↑",
+   "pr": "traː↗.pʰuː↗.miʔ↘",
+   "id": 342,
+   "wav_main": "0342_main.wav",
+   "wav_pr": "0342_pr.wav"
+  },
+  {
+   "set": "sensitivity",
+   "word": "ศาลาท่าน้ำ",
+   "main": "saː↗.laː→.tʰaː↘.naːm↑",
+   "pr": "saː↓.laː↗.tʰaː→.naːm↘",
+   "id": 343,
+   "wav_main": "0343_main.wav",
+   "wav_pr": "0343_pr.wav"
+  },
+  {
+   "set": "sensitivity",
+   "word": "สตรี",
+   "main": "sa↓.triː→",
+   "pr": "sa↑.triː↗",
+   "id": 344,
+   "wav_main": "0344_main.wav",
+   "wav_pr": "0344_pr.wav"
+  },
+  {
+   "set": "sensitivity",
+   "word": "กเรนทร",
+   "main": "ka↓.reːn→.tʰɔːn→",
+   "pr": "ka↑.reːn↗.tʰɔːn↗",
+   "id": 345,
+   "wav_main": "0345_main.wav",
+   "wav_pr": "0345_pr.wav"
+  },
+  {
+   "set": "sensitivity",
+   "word": "ครองอำนาจ",
+   "main": "kʰrɔːŋ→.ʔam→.naːt↘",
+   "pr": "kʰrɔːŋ↗.ʔam↗.naːt→",
+   "id": 346,
+   "wav_main": "0346_main.wav",
+   "wav_pr": "0346_pr.wav"
+  },
+  {
+   "set": "sensitivity",
+   "word": "สั่งสอน",
+   "main": "saŋ↓.sɔːn↗",
+   "pr": "saŋ↑.sɔːn↓",
+   "id": 347,
+   "wav_main": "0347_main.wav",
+   "wav_pr": "0347_pr.wav"
+  },
+  {
+   "set": "sensitivity",
+   "word": "เป็นเรื่อง",
+   "main": "pen→.rɯaŋ↘",
+   "pr": "pen↗.rɯaŋ→",
+   "id": 348,
+   "wav_main": "0348_main.wav",
+   "wav_pr": "0348_pr.wav"
+  },
+  {
+   "set": "sensitivity",
+   "word": "คุมแจ",
+   "main": "kʰum→.ʨɛː→",
+   "pr": "kʰum↗.ʨɛː↗",
+   "id": 349,
+   "wav_main": "0349_main.wav",
+   "wav_pr": "0349_pr.wav"
+  },
+  {
+   "set": "sensitivity",
+   "word": "ลาลีกา",
+   "main": "laː→.liː→.kaː→",
+   "pr": "laː↗.liː↗.kaː↗",
+   "id": 350,
+   "wav_main": "0350_main.wav",
+   "wav_pr": "0350_pr.wav"
+  },
+  {
+   "set": "sensitivity",
+   "word": "แทนที่จะ",
+   "main": "tʰɛːn→.tʰiː↘.ʨaʔ↓",
+   "pr": "tʰɛːn↗.tʰiː→.ʨaʔ↑",
+   "id": 351,
+   "wav_main": "0351_main.wav",
+   "wav_pr": "0351_pr.wav"
+  },
+  {
+   "set": "sensitivity",
+   "word": "ขับไม้",
+   "main": "kʰap↓.maj↑",
+   "pr": "kʰap↑.maj↘",
+   "id": 352,
+   "wav_main": "0352_main.wav",
+   "wav_pr": "0352_pr.wav"
+  },
+  {
+   "set": "sensitivity",
+   "word": "เคอเซอร์",
+   "main": "kʰɤː→.sɤː→",
+   "pr": "kʰɤː↗.sɤː↗",
+   "id": 353,
+   "wav_main": "0353_main.wav",
+   "wav_pr": "0353_pr.wav"
+  },
+  {
+   "set": "sensitivity",
+   "word": "น่าหดหู่",
+   "main": "naː↘.hot↓.huː↓",
+   "pr": "naː→.hot↑.huː↑",
+   "id": 354,
+   "wav_main": "0354_main.wav",
+   "wav_pr": "0354_pr.wav"
+  },
+  {
+   "set": "sensitivity",
+   "word": "การสู่ขอ",
+   "main": "kaːn→.suː↓.kʰɔː↗",
+   "pr": "kaːn↗.suː↑.kʰɔː↓",
+   "id": 355,
+   "wav_main": "0355_main.wav",
+   "wav_pr": "0355_pr.wav"
+  },
+  {
+   "set": "sensitivity",
+   "word": "คอไฟ",
+   "main": "kʰɔː→.faj→",
+   "pr": "kʰɔː↗.faj↗",
+   "id": 356,
+   "wav_main": "0356_main.wav",
+   "wav_pr": "0356_pr.wav"
+  },
+  {
+   "set": "sensitivity",
+   "word": "สูจนะ",
+   "main": "suːt↓.ʨa↓.naʔ↑",
+   "pr": "suːt↑.ʨa↑.naʔ↘",
+   "id": 357,
+   "wav_main": "0357_main.wav",
+   "wav_pr": "0357_pr.wav"
+  },
+  {
+   "set": "sensitivity",
+   "word": "สัมผัสมือ",
+   "main": "sam↗.pʰat↓.mɯː→",
+   "pr": "sam↓.pʰat↑.mɯː↗",
+   "id": 358,
+   "wav_main": "0358_main.wav",
+   "wav_pr": "0358_pr.wav"
+  },
+  {
+   "set": "sensitivity",
+   "word": "คนพรรค์นั้น",
+   "main": "kʰon→.pʰan→.nan↑",
+   "pr": "kʰon↗.pʰan↗.nan↘",
+   "id": 359,
+   "wav_main": "0359_main.wav",
+   "wav_pr": "0359_pr.wav"
+  },
+  {
+   "set": "sensitivity",
+   "word": "ประเมินราคา",
+   "main": "pra↓.mɤːn→.raː→.kʰaː→",
+   "pr": "pra↑.mɤːn↗.raː↗.kʰaː↗",
+   "id": 360,
+   "wav_main": "0360_main.wav",
+   "wav_pr": "0360_pr.wav"
+  },
+  {
+   "set": "sensitivity",
+   "word": "คำยกยอ",
+   "main": "kʰam→.jok↑.jɔː→",
+   "pr": "kʰam↗.jok↘.jɔː↗",
+   "id": 361,
+   "wav_main": "0361_main.wav",
+   "wav_pr": "0361_pr.wav"
+  },
+  {
+   "set": "sensitivity",
+   "word": "เลณะ",
+   "main": "leː→.naʔ↓",
+   "pr": "leː↗.naʔ↑",
+   "id": 362,
+   "wav_main": "0362_main.wav",
+   "wav_pr": "0362_pr.wav"
+  },
+  {
+   "set": "sensitivity",
+   "word": "สำหรวด",
+   "main": "sam↗.ruat↓",
+   "pr": "sam↓.ruat↑",
+   "id": 363,
+   "wav_main": "0363_main.wav",
+   "wav_pr": "0363_pr.wav"
+  },
+  {
+   "set": "sensitivity",
+   "word": "ขาตะไกร",
+   "main": "kʰaː↗.ta↓.kraj→",
+   "pr": "kʰaː↓.ta↑.kraj↗",
+   "id": 364,
+   "wav_main": "0364_main.wav",
+   "wav_pr": "0364_pr.wav"
+  },
+  {
+   "set": "sensitivity",
+   "word": "ฟังเพลง",
+   "main": "faŋ→.pʰleːŋ→",
+   "pr": "faŋ↗.pʰleːŋ↗",
+   "id": 365,
+   "wav_main": "0365_main.wav",
+   "wav_pr": "0365_pr.wav"
+  },
+  {
+   "set": "sensitivity",
+   "word": "เหนียวหมา",
+   "main": "niaw↗.maː↗",
+   "pr": "niaw↓.maː↓",
+   "id": 366,
+   "wav_main": "0366_main.wav",
+   "wav_pr": "0366_pr.wav"
+  },
+  {
+   "set": "sensitivity",
+   "word": "ชายป่า",
+   "main": "ʨʰaːj→.paː↓",
+   "pr": "ʨʰaːj↗.paː↑",
+   "id": 367,
+   "wav_main": "0367_main.wav",
+   "wav_pr": "0367_pr.wav"
+  },
+  {
+   "set": "sensitivity",
+   "word": "บัดเดี๋ยว",
+   "main": "bat↓.diaw↗",
+   "pr": "bat↑.diaw↓",
+   "id": 368,
+   "wav_main": "0368_main.wav",
+   "wav_pr": "0368_pr.wav"
+  },
+  {
+   "set": "sensitivity",
+   "word": "ไปป์",
+   "main": "paj→",
+   "pr": "paj↗",
+   "id": 369,
+   "wav_main": "0369_main.wav",
+   "wav_pr": "0369_pr.wav"
+  },
+  {
+   "set": "sensitivity",
+   "word": "ไดนาไมต์",
+   "main": "daj→.naː→.maj→",
+   "pr": "daj↗.naː↗.maj↗",
+   "id": 370,
+   "wav_main": "0370_main.wav",
+   "wav_pr": "0370_pr.wav"
+  },
+  {
+   "set": "sensitivity",
+   "word": "แทรมโปลีน",
+   "main": "tʰrɛːm→.poː→.liːn→",
+   "pr": "tʰrɛːm↗.poː↗.liːn↗",
+   "id": 371,
+   "wav_main": "0371_main.wav",
+   "wav_pr": "0371_pr.wav"
+  },
+  {
+   "set": "sensitivity",
+   "word": "ขี้เป็ด",
+   "main": "kʰiː↘.pet↓",
+   "pr": "kʰiː→.pet↑",
+   "id": 372,
+   "wav_main": "0372_main.wav",
+   "wav_pr": "0372_pr.wav"
+  },
+  {
+   "set": "sensitivity",
+   "word": "แข็งเมือง",
+   "main": "kʰɛŋ↗.mɯaŋ→",
+   "pr": "kʰɛŋ↓.mɯaŋ↗",
+   "id": 373,
+   "wav_main": "0373_main.wav",
+   "wav_pr": "0373_pr.wav"
+  },
+  {
+   "set": "sensitivity",
+   "word": "แปรผกผัน",
+   "main": "prɛː→.pʰok↓.pʰan↗",
+   "pr": "prɛː↗.pʰok↑.pʰan↓",
+   "id": 374,
+   "wav_main": "0374_main.wav",
+   "wav_pr": "0374_pr.wav"
+  },
+  {
+   "set": "sensitivity",
+   "word": "ศีลจุ่ม",
+   "main": "siːn↗.ʨum↓",
+   "pr": "siːn↓.ʨum↑",
+   "id": 375,
+   "wav_main": "0375_main.wav",
+   "wav_pr": "0375_pr.wav"
+  },
+  {
+   "set": "sensitivity",
+   "word": "ก้อนอิฐ",
+   "main": "kɔːn↘.ʔit↓",
+   "pr": "kɔːn→.ʔit↑",
+   "id": 376,
+   "wav_main": "0376_main.wav",
+   "wav_pr": "0376_pr.wav"
+  },
+  {
+   "set": "sensitivity",
+   "word": "บวน",
+   "main": "buan→",
+   "pr": "buan↗",
+   "id": 377,
+   "wav_main": "0377_main.wav",
+   "wav_pr": "0377_pr.wav"
+  },
+  {
+   "set": "sensitivity",
+   "word": "กุนที",
+   "main": "kun→.tʰiː→",
+   "pr": "kun↗.tʰiː↗",
+   "id": 378,
+   "wav_main": "0378_main.wav",
+   "wav_pr": "0378_pr.wav"
+  },
+  {
+   "set": "sensitivity",
+   "word": "เวิลด์",
+   "main": "wɤːn→",
+   "pr": "wɤːn↗",
+   "id": 379,
+   "wav_main": "0379_main.wav",
+   "wav_pr": "0379_pr.wav"
+  },
+  {
+   "set": "sensitivity",
+   "word": "ซั่นโถว",
+   "main": "san↘.tʰoːw↗",
+   "pr": "san→.tʰoːw↓",
+   "id": 380,
+   "wav_main": "0380_main.wav",
+   "wav_pr": "0380_pr.wav"
+  }
+ ]
+}
