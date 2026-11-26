@@ -11,6 +11,10 @@ def test_known_word_returns_ipa():
     assert "/kin˧/" in result
 
 
+def test_suan_is_single_syllable():
+    assert G2P().convert("สวน") == "/sua̯n˩˩˦/"
+
+
 def test_multi_word_sentence():
     g2p = G2P()
     result = g2p.convert("ไปกินข้าว")
